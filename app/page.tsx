@@ -7,7 +7,7 @@ export default function Home() {
       - flex, items-center, justify-center: enable Flexbox layout and vertically + horizontally center
     */
     <main className="min-h-screen bg-naysayer text-white flex items-center justify-center">
-      <h1 className="text-4xl">Order of the Sinking Star</h1>
+      <h1 className="font-title text-8xl">Order of the Sinking Star</h1>
     </main>
   );
 }

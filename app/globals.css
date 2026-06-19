@@ -10,8 +10,12 @@
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-naysayer: var(--naysayer);
+
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  --font-title: var(--font-karmina);
+  --font-oss: var(--font-karmina); /* order of the sinking star title font */
 }
 
 @media (prefers-color-scheme: dark) {
