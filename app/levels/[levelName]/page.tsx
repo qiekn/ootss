@@ -6,6 +6,7 @@ import { notFound } from "next/navigation";
 import SubtitlePlayer, {
   type SubtitleEntry,
 } from "@/components/SubtitlePlayer";
+import { getAssetPath } from "@/lib/path";
 
 interface LevelFrontmatter {
   title?: string;
@@ -68,7 +69,7 @@ function readSubtitle(name: string): SubtitleEntry | null {
 
   return {
     ...json,
-    audioSrc: `/sound/subtitles/${json.name}.ogg`,
+    audioSrc: getAssetPath(`/sound/subtitles/${json.name}.ogg`),
   };
 }
 
@@ -103,7 +104,7 @@ export default async function LevelPage({
 
         <div className="relative mb-12 aspect-video w-full overflow-hidden rounded-2xl border border-white/10 bg-black/20">
           <Image
-            src={`/images/levels/${levelName}.webp`}
+            src={getAssetPath(`/images/levels/${levelName}.webp`)}
             alt={title}
             fill
             priority

@@ -3,6 +3,7 @@ import path from "node:path";
 import Link from "next/link";
 import Image from "next/image";
 import matter from "gray-matter";
+import { getAssetPath } from "@/lib/path";
 
 interface LevelItem {
   levelName: string;
@@ -36,7 +37,7 @@ function getLevels(): LevelItem[] {
       return {
         levelName,
         title,
-        previewSrc: `/images/levels/${levelName}.webp`,
+        previewSrc: getAssetPath(`/images/levels/${levelName}.webp`),
       };
     })
     .sort((a, b) => a.levelName.localeCompare(b.levelName));
