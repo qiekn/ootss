@@ -35,7 +35,7 @@ const titleFont = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "OOTSS Wiki",
+  title: "Order of the Sinking Star",
   description: "Order of the Sinking Star Wiki",
 };
 
