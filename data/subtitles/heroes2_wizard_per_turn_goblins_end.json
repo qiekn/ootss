@@ -1,0 +1,11 @@
+{
+  "name": "heroes2_wizard_per_turn_goblins_end",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "Thanks for helping me out, fella!\nAnd thank your friends for helping me think."
+    }
+  ]
+}

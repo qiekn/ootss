@@ -1,0 +1,11 @@
+{
+  "name": "intro_queen_teleporter",
+  "items": [
+    {
+      "character": "queen",
+      "marker": "0",
+      "comment": "",
+      "text": "Foreign transport,\nplease take me home."
+    }
+  ]
+}

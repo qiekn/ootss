@@ -1,0 +1,29 @@
+{
+  "name": "heroes2_one_fire_warrior_thief_optional",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "Todo: \"Clubs aren't sharp. Dirks are small, it could sneak through.\"",
+      "text": "So use a club? Or a dirk?"
+    },
+    {
+      "character": "warrior",
+      "marker": "2.125",
+      "comment": "Todo: \"The binding stops\".",
+      "text": "\"Swordbound\" doesn't mean just swords.\nIt stops any kind of intent to attack."
+    },
+    {
+      "character": "thief",
+      "marker": "7.188",
+      "comment": "",
+      "text": "Throw a rock? Punch them?"
+    },
+    {
+      "character": "warrior",
+      "marker": "9.284263",
+      "comment": "Todo: \"push them sternly with my fist.\"",
+      "text": "I could somewhat punch them.\nNot hard enough to do any good."
+    }
+  ]
+}

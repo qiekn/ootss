@@ -1,0 +1,11 @@
+{
+  "name": "heroes3_bard_crystals_first",
+  "items": [
+    {
+      "character": "bard",
+      "marker": "0",
+      "comment": "",
+      "text": "Ahh, the strange crystals. Finally.\nAre they filled with life\nas I've been told?"
+    }
+  ]
+}

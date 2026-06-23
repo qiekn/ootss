@@ -1,0 +1,17 @@
+{
+  "name": "heroes1_wizard_thief_end",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "We still work well together!"
+    },
+    {
+      "character": "wizard",
+      "marker": "2.05",
+      "comment": "",
+      "text": "That we do!"
+    }
+  ]
+}

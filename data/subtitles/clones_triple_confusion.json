@@ -1,0 +1,41 @@
+{
+  "name": "clones_triple_confusion",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "",
+      "text": "I feel watched.\nPerhaps the M'wrights\nhave turned their glass upon me.\nI'll give them worth the seeing."
+    },
+    {
+      "character": "trader_clone_1",
+      "marker": "8.8",
+      "comment": "",
+      "text": "You aim too low.\nWe leave now,"
+    },
+    {
+      "character": "trader_clone_1",
+      "marker": "11.6",
+      "comment": "",
+      "text": "send a flotilla back,\nand take all the mirrors."
+    },
+    {
+      "character": "trader_clone_2",
+      "marker": "15.25",
+      "comment": "",
+      "text": "Hassle, hassle. If it's peace we want,\nlet's quit it all."
+    },
+    {
+      "character": "trader_clone_2",
+      "marker": "19.9",
+      "comment": "",
+      "text": "The wife never really wanted me,\nthe child is sufficiently raised."
+    },
+    {
+      "character": "trader_clone_2",
+      "marker": "24.2",
+      "comment": "",
+      "text": "Just disappear, be myself.\nA new life."
+    }
+  ]
+}

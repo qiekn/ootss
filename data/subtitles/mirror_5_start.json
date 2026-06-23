@@ -1,0 +1,23 @@
+{
+  "name": "mirror_5_start",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "",
+      "text": "These mirrors are a bit better,\nbut I'll press on"
+    },
+    {
+      "character": "trader",
+      "marker": "2.58",
+      "comment": "",
+      "text": "to find one as close to pristine\nas can be managed."
+    },
+    {
+      "character": "trader",
+      "marker": "5.9",
+      "comment": "",
+      "text": "Then, back home."
+    }
+  ]
+}

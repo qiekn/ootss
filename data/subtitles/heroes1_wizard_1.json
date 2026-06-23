@@ -1,0 +1,23 @@
+{
+  "name": "heroes1_wizard_1",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "(to himself)",
+      "text": "Still don't understand\nhow I got out of there --"
+    },
+    {
+      "character": "wizard",
+      "marker": "2.75",
+      "comment": "",
+      "text": "some kind of intervention\nfrom afar --"
+    },
+    {
+      "character": "wizard",
+      "marker": "5.7",
+      "comment": "",
+      "text": "First, I'll find the others."
+    }
+  ]
+}

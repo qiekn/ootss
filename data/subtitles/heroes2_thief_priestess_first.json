@@ -1,0 +1,17 @@
+{
+  "name": "heroes2_thief_priestess_first",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "I love having another girl on this trip."
+    },
+    {
+      "character": "thief",
+      "marker": "3.125",
+      "comment": "",
+      "text": "Don't get me wrong,\nthe boys are great,\nbut ... it's not the same."
+    }
+  ]
+}

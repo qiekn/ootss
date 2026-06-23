@@ -1,0 +1,23 @@
+{
+  "name": "sokoban_overworld",
+  "items": [
+    {
+      "character": "sokoban",
+      "marker": "0",
+      "comment": "",
+      "text": "I've scouted the area quite a bit, and...\nthere's a lot happening here, and I don't\nyet understand it all."
+    },
+    {
+      "character": "sokoban",
+      "marker": "6.7",
+      "comment": "",
+      "text": "You'll have to see for yourself."
+    },
+    {
+      "character": "sokoban",
+      "marker": "8.8",
+      "comment": "",
+      "text": "I've found it best to make progress\nin the North and the East.\nAvoid the West until you are ready\nfor a serious challenge."
+    }
+  ]
+}

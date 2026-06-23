@@ -1,0 +1,11 @@
+{
+  "name": "heroes2_thief_dragons_intro",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "Hey there boy-os,\nI don't suppose anyone ever\nkeeps you as pets?"
+    }
+  ]
+}

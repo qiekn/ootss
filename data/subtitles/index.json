@@ -1,0 +1,906 @@
+[
+  {
+    "name": "warrior_heroes1_start",
+    "file": "warrior_heroes1_start.json"
+  },
+  {
+    "name": "warrior_heroes1_start_end",
+    "file": "warrior_heroes1_start_end.json"
+  },
+  {
+    "name": "warrior_heroes1_call",
+    "file": "warrior_heroes1_call.json"
+  },
+  {
+    "name": "heroes_warrior_gate",
+    "file": "heroes_warrior_gate.json"
+  },
+  {
+    "name": "heroes_warrior_gate_end",
+    "file": "heroes_warrior_gate_end.json"
+  },
+  {
+    "name": "heroes_warrior_mistrust",
+    "file": "heroes_warrior_mistrust.json"
+  },
+  {
+    "name": "heroes_warrior_where_is_tif",
+    "file": "heroes_warrior_where_is_tif.json"
+  },
+  {
+    "name": "thief_first",
+    "file": "thief_first.json"
+  },
+  {
+    "name": "heroes1_5",
+    "file": "heroes1_5.json"
+  },
+  {
+    "name": "heroes_tif_so_much_space",
+    "file": "heroes_tif_so_much_space.json"
+  },
+  {
+    "name": "heroes_tif_lone_crystal",
+    "file": "heroes_tif_lone_crystal.json"
+  },
+  {
+    "name": "heroes_tif_return",
+    "file": "heroes_tif_return.json"
+  },
+  {
+    "name": "heroes1_thief_three_crystals_end",
+    "file": "heroes1_thief_three_crystals_end.json"
+  },
+  {
+    "name": "heroes1_wizard_1",
+    "file": "heroes1_wizard_1.json"
+  },
+  {
+    "name": "heroes1_wizard_2",
+    "file": "heroes1_wizard_2.json"
+  },
+  {
+    "name": "heroes1_wizard_2_end",
+    "file": "heroes1_wizard_2_end.json"
+  },
+  {
+    "name": "heroes1_wizard_three_crystals",
+    "file": "heroes1_wizard_three_crystals.json"
+  },
+  {
+    "name": "heroes1_wizard_three_crystals_end",
+    "file": "heroes1_wizard_three_crystals_end.json"
+  },
+  {
+    "name": "heroes1_wizard_array",
+    "file": "heroes1_wizard_array.json"
+  },
+  {
+    "name": "heroes1_wizard_array_end",
+    "file": "heroes1_wizard_array_end.json"
+  },
+  {
+    "name": "heroes1_warrior_wizard",
+    "file": "heroes1_warrior_wizard.json"
+  },
+  {
+    "name": "heroes1_warrior_wizard_end",
+    "file": "heroes1_warrior_wizard_end.json"
+  },
+  {
+    "name": "heroes1_warrior_thief",
+    "file": "heroes1_warrior_thief.json"
+  },
+  {
+    "name": "heroes1_warrior_thief_mid0",
+    "file": "heroes1_warrior_thief_mid0.json"
+  },
+  {
+    "name": "heroes1_warrior_thief_mid",
+    "file": "heroes1_warrior_thief_mid.json"
+  },
+  {
+    "name": "heroes1_warrior_thief_end",
+    "file": "heroes1_warrior_thief_end.json"
+  },
+  {
+    "name": "heroes1_wizard_thief",
+    "file": "heroes1_wizard_thief.json"
+  },
+  {
+    "name": "heroes1_wizard_thief_end",
+    "file": "heroes1_wizard_thief_end.json"
+  },
+  {
+    "name": "heroes1_warrior_wizard_confused",
+    "file": "heroes1_warrior_wizard_confused.json"
+  },
+  {
+    "name": "heroes1_warrior_wizard_confused_mid",
+    "file": "heroes1_warrior_wizard_confused_mid.json"
+  },
+  {
+    "name": "heroes1_warrior_wizard_confused_end",
+    "file": "heroes1_warrior_wizard_confused_end.json"
+  },
+  {
+    "name": "heroes_three_for_the_first_time_optional",
+    "file": "heroes_three_for_the_first_time_optional.json"
+  },
+  {
+    "name": "heroes_three_for_the_first_time_optional_end",
+    "file": "heroes_three_for_the_first_time_optional_end.json"
+  },
+  {
+    "name": "heroes_three_for_the_first_time_mandatory",
+    "file": "heroes_three_for_the_first_time_mandatory.json"
+  },
+  {
+    "name": "heroes_three_for_the_first_time_mandatory_end",
+    "file": "heroes_three_for_the_first_time_mandatory_end.json"
+  },
+  {
+    "name": "heroes_three_for_the_second_time_mandatory",
+    "file": "heroes_three_for_the_second_time_mandatory.json"
+  },
+  {
+    "name": "heroes_three_for_the_second_time_mandatory_end",
+    "file": "heroes_three_for_the_second_time_mandatory_end.json"
+  },
+  {
+    "name": "heroes_jail",
+    "file": "heroes_jail.json"
+  },
+  {
+    "name": "heroes_jail2",
+    "file": "heroes_jail2.json"
+  },
+  {
+    "name": "heroes_jail2_mid",
+    "file": "heroes_jail2_mid.json"
+  },
+  {
+    "name": "heroes_jail2_mid2",
+    "file": "heroes_jail2_mid2.json"
+  },
+  {
+    "name": "heroes_jail2_end",
+    "file": "heroes_jail2_end.json"
+  },
+  {
+    "name": "heroes2_warrior_goblins_1",
+    "file": "heroes2_warrior_goblins_1.json"
+  },
+  {
+    "name": "heroes2_warrior_goblins_2",
+    "file": "heroes2_warrior_goblins_2.json"
+  },
+  {
+    "name": "heroes2_warrior_goblins_2_mid",
+    "file": "heroes2_warrior_goblins_2_mid.json"
+  },
+  {
+    "name": "heroes2_warrior_goblins_2_mid_2",
+    "file": "heroes2_warrior_goblins_2_mid_2.json"
+  },
+  {
+    "name": "heroes2_warrior_goblins_2_end",
+    "file": "heroes2_warrior_goblins_2_end.json"
+  },
+  {
+    "name": "heroes2_thief_goblins",
+    "file": "heroes2_thief_goblins.json"
+  },
+  {
+    "name": "heroes2_thief_goblins_mid",
+    "file": "heroes2_thief_goblins_mid.json"
+  },
+  {
+    "name": "heroes2_wizard_goblins",
+    "file": "heroes2_wizard_goblins.json"
+  },
+  {
+    "name": "heroes2_wizard_goblins_mid",
+    "file": "heroes2_wizard_goblins_mid.json"
+  },
+  {
+    "name": "heroes2_warrior_dragon_intro",
+    "file": "heroes2_warrior_dragon_intro.json"
+  },
+  {
+    "name": "heroes2_warrior_dragon_intro_end",
+    "file": "heroes2_warrior_dragon_intro_end.json"
+  },
+  {
+    "name": "heroes2_thief_dragons_intro",
+    "file": "heroes2_thief_dragons_intro.json"
+  },
+  {
+    "name": "heroes2_thief_dragons_second",
+    "file": "heroes2_thief_dragons_second.json"
+  },
+  {
+    "name": "heroes2_thief_dragons_second_end",
+    "file": "heroes2_thief_dragons_second_end.json"
+  },
+  {
+    "name": "heroes2_thief_dragons_third",
+    "file": "heroes2_thief_dragons_third.json"
+  },
+  {
+    "name": "heroes2_thief_dragons_third_end",
+    "file": "heroes2_thief_dragons_third_end.json"
+  },
+  {
+    "name": "heroes2_three_first",
+    "file": "heroes2_three_first.json"
+  },
+  {
+    "name": "heroes2_three_first_mid",
+    "file": "heroes2_three_first_mid.json"
+  },
+  {
+    "name": "heroes2_three_first_end",
+    "file": "heroes2_three_first_end.json"
+  },
+  {
+    "name": "heroes2_warrior_monster_gate_first",
+    "file": "heroes2_warrior_monster_gate_first.json"
+  },
+  {
+    "name": "heroes2_warrior_monster_gate_first_end",
+    "file": "heroes2_warrior_monster_gate_first_end.json"
+  },
+  {
+    "name": "heroes2_warrior_monster_gate_2_optional",
+    "file": "heroes2_warrior_monster_gate_2_optional.json"
+  },
+  {
+    "name": "heroes2_warrior_monster_gate_2_optional_end",
+    "file": "heroes2_warrior_monster_gate_2_optional_end.json"
+  },
+  {
+    "name": "heroes2_warrior_3monster",
+    "file": "heroes2_warrior_3monster.json"
+  },
+  {
+    "name": "heroes2_warrior_3monster_end",
+    "file": "heroes2_warrior_3monster_end.json"
+  },
+  {
+    "name": "heroes2_postmeetup_thief",
+    "file": "heroes2_postmeetup_thief.json"
+  },
+  {
+    "name": "heroes2_postmeetup_warrior",
+    "file": "heroes2_postmeetup_warrior.json"
+  },
+  {
+    "name": "heroes2_postmeetup_wizard",
+    "file": "heroes2_postmeetup_wizard.json"
+  },
+  {
+    "name": "heroes2_postmeetup_wizard_mid",
+    "file": "heroes2_postmeetup_wizard_mid.json"
+  },
+  {
+    "name": "heroes2_warrior_goblins_vs_dragon",
+    "file": "heroes2_warrior_goblins_vs_dragon.json"
+  },
+  {
+    "name": "heroes2_warrior_goblins_vs_dragon_end",
+    "file": "heroes2_warrior_goblins_vs_dragon_end.json"
+  },
+  {
+    "name": "heroes2_wizard_per_turn_goblins",
+    "file": "heroes2_wizard_per_turn_goblins.json"
+  },
+  {
+    "name": "heroes2_wizard_per_turn_goblins_end",
+    "file": "heroes2_wizard_per_turn_goblins_end.json"
+  },
+  {
+    "name": "heroes2_one_fire_warrior_thief_optional",
+    "file": "heroes2_one_fire_warrior_thief_optional.json"
+  },
+  {
+    "name": "heroes2_one_fire_warrior_thief_optional_end",
+    "file": "heroes2_one_fire_warrior_thief_optional_end.json"
+  },
+  {
+    "name": "heroes2_wizard_priestess_first",
+    "file": "heroes2_wizard_priestess_first.json"
+  },
+  {
+    "name": "heroes2_wizard_priestess_first_end",
+    "file": "heroes2_wizard_priestess_first_end.json"
+  },
+  {
+    "name": "heroes2_warrior_priestess_first",
+    "file": "heroes2_warrior_priestess_first.json"
+  },
+  {
+    "name": "heroes2_warrior_priestess_first_end",
+    "file": "heroes2_warrior_priestess_first_end.json"
+  },
+  {
+    "name": "heroes2_warrior_priestess_second",
+    "file": "heroes2_warrior_priestess_second.json"
+  },
+  {
+    "name": "heroes2_warrior_priestess_second_end",
+    "file": "heroes2_warrior_priestess_second_end.json"
+  },
+  {
+    "name": "heroes2_thief_priestess_first",
+    "file": "heroes2_thief_priestess_first.json"
+  },
+  {
+    "name": "heroes2_thief_priestess_second",
+    "file": "heroes2_thief_priestess_second.json"
+  },
+  {
+    "name": "heroes2_thief_priestess_second_mid_warrior",
+    "file": "heroes2_thief_priestess_second_mid_warrior.json"
+  },
+  {
+    "name": "heroes2_thief_priestess_second_mid_disgraced",
+    "file": "heroes2_thief_priestess_second_mid_disgraced.json"
+  },
+  {
+    "name": "heroes2_thief_priestess_second_mid_wizard",
+    "file": "heroes2_thief_priestess_second_mid_wizard.json"
+  },
+  {
+    "name": "heroes2_thief_priestess_second_end",
+    "file": "heroes2_thief_priestess_second_end.json"
+  },
+  {
+    "name": "heroes2_wizard_and_priestess_alone_first",
+    "file": "heroes2_wizard_and_priestess_alone_first.json"
+  },
+  {
+    "name": "heroes2_wizard_and_priestess_alone_second",
+    "file": "heroes2_wizard_and_priestess_alone_second.json"
+  },
+  {
+    "name": "heroes2_wizard_and_priestess_alone_third",
+    "file": "heroes2_wizard_and_priestess_alone_third.json"
+  },
+  {
+    "name": "heroes2_wizard_and_priestess_alone_third_end",
+    "file": "heroes2_wizard_and_priestess_alone_third_end.json"
+  },
+  {
+    "name": "heroes2_wizard_thief_priestess_goblins",
+    "file": "heroes2_wizard_thief_priestess_goblins.json"
+  },
+  {
+    "name": "heroes2_thief_wizard_priestess_compartments",
+    "file": "heroes2_thief_wizard_priestess_compartments.json"
+  },
+  {
+    "name": "heroes2_thief_wizard_priestess_compartments_mid",
+    "file": "heroes2_thief_wizard_priestess_compartments_mid.json"
+  },
+  {
+    "name": "heroes2_four",
+    "file": "heroes2_four.json"
+  },
+  {
+    "name": "heroes3_bard_first",
+    "file": "heroes3_bard_first.json"
+  },
+  {
+    "name": "heroes3_bard_first_end",
+    "file": "heroes3_bard_first_end.json"
+  },
+  {
+    "name": "heroes3_bard_second",
+    "file": "heroes3_bard_second.json"
+  },
+  {
+    "name": "heroes3_bard_second_end",
+    "file": "heroes3_bard_second_end.json"
+  },
+  {
+    "name": "heroes3_bard_crystals_first",
+    "file": "heroes3_bard_crystals_first.json"
+  },
+  {
+    "name": "heroes3_bard_crystals_first_mid",
+    "file": "heroes3_bard_crystals_first_mid.json"
+  },
+  {
+    "name": "heroes3_bard_crystals_first_end",
+    "file": "heroes3_bard_crystals_first_end.json"
+  },
+  {
+    "name": "heroes3_bard_two_goblins",
+    "file": "heroes3_bard_two_goblins.json"
+  },
+  {
+    "name": "heroes3_bard_two_goblins_end",
+    "file": "heroes3_bard_two_goblins_end.json"
+  },
+  {
+    "name": "heroes3_bard_warrior_first",
+    "file": "heroes3_bard_warrior_first.json"
+  },
+  {
+    "name": "heroes3_bard_warrior_first_end",
+    "file": "heroes3_bard_warrior_first_end.json"
+  },
+  {
+    "name": "heroes3_druid_thief_first",
+    "file": "heroes3_druid_thief_first.json"
+  },
+  {
+    "name": "heroes3_druid_thief_crystal",
+    "file": "heroes3_druid_thief_crystal.json"
+  },
+  {
+    "name": "heroes3_druid_thief_first_end",
+    "file": "heroes3_druid_thief_first_end.json"
+  },
+  {
+    "name": "heroes3_druid_warrior_first",
+    "file": "heroes3_druid_warrior_first.json"
+  },
+  {
+    "name": "heroes3_druid_warrior_first_end",
+    "file": "heroes3_druid_warrior_first_end.json"
+  },
+  {
+    "name": "heroes3_druid_warrior_second",
+    "file": "heroes3_druid_warrior_second.json"
+  },
+  {
+    "name": "heroes3_wizard_druid_first",
+    "file": "heroes3_wizard_druid_first.json"
+  },
+  {
+    "name": "heroes3_wizard_druid_second",
+    "file": "heroes3_wizard_druid_second.json"
+  },
+  {
+    "name": "promesst1_end",
+    "file": "promesst1_end.json"
+  },
+  {
+    "name": "promesst1_start",
+    "file": "promesst1_start.json"
+  },
+  {
+    "name": "promesst1_gems",
+    "file": "promesst1_gems.json"
+  },
+  {
+    "name": "promesst1_lovely",
+    "file": "promesst1_lovely.json"
+  },
+  {
+    "name": "promesst1_strong",
+    "file": "promesst1_strong.json"
+  },
+  {
+    "name": "promesst1_snug",
+    "file": "promesst1_snug.json"
+  },
+  {
+    "name": "promesst1_cart",
+    "file": "promesst1_cart.json"
+  },
+  {
+    "name": "promesst1_through_wall",
+    "file": "promesst1_through_wall.json"
+  },
+  {
+    "name": "promesst1_not_so_hard",
+    "file": "promesst1_not_so_hard.json"
+  },
+  {
+    "name": "promesst1_wrap",
+    "file": "promesst1_wrap.json"
+  },
+  {
+    "name": "promesst1_destroy_rover",
+    "file": "promesst1_destroy_rover.json"
+  },
+  {
+    "name": "promesst1_egg",
+    "file": "promesst1_egg.json"
+  },
+  {
+    "name": "promesst1_temple_room",
+    "file": "promesst1_temple_room.json"
+  },
+  {
+    "name": "promesst1_red_beam_lower",
+    "file": "promesst1_red_beam_lower.json"
+  },
+  {
+    "name": "promesst1_exiting_egg_room",
+    "file": "promesst1_exiting_egg_room.json"
+  },
+  {
+    "name": "promesst1_place_them",
+    "file": "promesst1_place_them.json"
+  },
+  {
+    "name": "promesst1_wand_first_use",
+    "file": "promesst1_wand_first_use.json"
+  },
+  {
+    "name": "promesst1_wand_strong",
+    "file": "promesst1_wand_strong.json"
+  },
+  {
+    "name": "promesst1_unlock",
+    "file": "promesst1_unlock.json"
+  },
+  {
+    "name": "intro_1",
+    "file": "intro_1.json"
+  },
+  {
+    "name": "intro_before_teleporter",
+    "file": "intro_before_teleporter.json"
+  },
+  {
+    "name": "sokoban_overworld",
+    "file": "sokoban_overworld.json"
+  },
+  {
+    "name": "audiolog_g_possession",
+    "file": "audiolog_g_possession.json"
+  },
+  {
+    "name": "audiolog_g_gold_rooms",
+    "file": "audiolog_g_gold_rooms.json"
+  },
+  {
+    "name": "audiolog_g_gold_and_silver",
+    "file": "audiolog_g_gold_and_silver.json"
+  },
+  {
+    "name": "audiolog_g_musing_on_fast_travel",
+    "file": "audiolog_g_musing_on_fast_travel.json"
+  },
+  {
+    "name": "audiolog_g_work_and_care",
+    "file": "audiolog_g_work_and_care.json"
+  },
+  {
+    "name": "paradise_lost_invocation_2",
+    "file": "paradise_lost_invocation_2.json"
+  },
+  {
+    "name": "mirror_new_1_start",
+    "file": "mirror_new_1_start.json"
+  },
+  {
+    "name": "mirror_new_1_end",
+    "file": "mirror_new_1_end.json"
+  },
+  {
+    "name": "mirror_new_2_start",
+    "file": "mirror_new_2_start.json"
+  },
+  {
+    "name": "mirror_new_3_start",
+    "file": "mirror_new_3_start.json"
+  },
+  {
+    "name": "mirror_4_start",
+    "file": "mirror_4_start.json"
+  },
+  {
+    "name": "mirror_4_end",
+    "file": "mirror_4_end.json"
+  },
+  {
+    "name": "mirror_5_start",
+    "file": "mirror_5_start.json"
+  },
+  {
+    "name": "mirror_5_end",
+    "file": "mirror_5_end.json"
+  },
+  {
+    "name": "mirror_6_start",
+    "file": "mirror_6_start.json"
+  },
+  {
+    "name": "mirror_6_mid",
+    "file": "mirror_6_mid.json"
+  },
+  {
+    "name": "mirror_6_end",
+    "file": "mirror_6_end.json"
+  },
+  {
+    "name": "mirror_new_7_start",
+    "file": "mirror_new_7_start.json"
+  },
+  {
+    "name": "mirror_7_end",
+    "file": "mirror_7_end.json"
+  },
+  {
+    "name": "mirror_new_last_before_cloning_start",
+    "file": "mirror_new_last_before_cloning_start.json"
+  },
+  {
+    "name": "clones_early",
+    "file": "clones_early.json"
+  },
+  {
+    "name": "clones_first_confusion",
+    "file": "clones_first_confusion.json"
+  },
+  {
+    "name": "clones_first_confusion_end",
+    "file": "clones_first_confusion_end.json"
+  },
+  {
+    "name": "clones_triple_confusion",
+    "file": "clones_triple_confusion.json"
+  },
+  {
+    "name": "clones_triple_confusion_end",
+    "file": "clones_triple_confusion_end.json"
+  },
+  {
+    "name": "clones_working",
+    "file": "clones_working.json"
+  },
+  {
+    "name": "clones_working_mid",
+    "file": "clones_working_mid.json"
+  },
+  {
+    "name": "clones_working_end",
+    "file": "clones_working_end.json"
+  },
+  {
+    "name": "clones_merge",
+    "file": "clones_merge.json"
+  },
+  {
+    "name": "clones_merge_end",
+    "file": "clones_merge_end.json"
+  },
+  {
+    "name": "mirror_after_clones_first",
+    "file": "mirror_after_clones_first.json"
+  },
+  {
+    "name": "mirror_icy_start",
+    "file": "mirror_icy_start.json"
+  },
+  {
+    "name": "mirror_icy_second_start",
+    "file": "mirror_icy_second_start.json"
+  },
+  {
+    "name": "mirror_post_clones_b",
+    "file": "mirror_post_clones_b.json"
+  },
+  {
+    "name": "mirror_post_clones_b_end",
+    "file": "mirror_post_clones_b_end.json"
+  },
+  {
+    "name": "mirror_post_clones_c",
+    "file": "mirror_post_clones_c.json"
+  },
+  {
+    "name": "mirror_post_clones_c_end",
+    "file": "mirror_post_clones_c_end.json"
+  },
+  {
+    "name": "mirror_post_clones_d",
+    "file": "mirror_post_clones_d.json"
+  },
+  {
+    "name": "mirror_post_clones_f",
+    "file": "mirror_post_clones_f.json"
+  },
+  {
+    "name": "mirror_post_clones_f_mid",
+    "file": "mirror_post_clones_f_mid.json"
+  },
+  {
+    "name": "mirror_post_clones_f_end",
+    "file": "mirror_post_clones_f_end.json"
+  },
+  {
+    "name": "mirror_post_clones_g",
+    "file": "mirror_post_clones_g.json"
+  },
+  {
+    "name": "mirror_post_clones_g_end",
+    "file": "mirror_post_clones_g_end.json"
+  },
+  {
+    "name": "mirror_factory",
+    "file": "mirror_factory.json"
+  },
+  {
+    "name": "mirror_pals_start",
+    "file": "mirror_pals_start.json"
+  },
+  {
+    "name": "walk_it_over_start",
+    "file": "walk_it_over_start.json"
+  },
+  {
+    "name": "mirror_to_gold_1",
+    "file": "mirror_to_gold_1.json"
+  },
+  {
+    "name": "mirror_to_gold_1_end",
+    "file": "mirror_to_gold_1_end.json"
+  },
+  {
+    "name": "mirror_to_gold_2",
+    "file": "mirror_to_gold_2.json"
+  },
+  {
+    "name": "mirror_to_gold_3",
+    "file": "mirror_to_gold_3.json"
+  },
+  {
+    "name": "mirror_to_gold_3_end",
+    "file": "mirror_to_gold_3_end.json"
+  },
+  {
+    "name": "mirror_to_gold_4",
+    "file": "mirror_to_gold_4.json"
+  },
+  {
+    "name": "mirror_to_gold_4_end",
+    "file": "mirror_to_gold_4_end.json"
+  },
+  {
+    "name": "worlds_collide_HM_start",
+    "file": "worlds_collide_HM_start.json"
+  },
+  {
+    "name": "intro_queen_am_i_dead",
+    "file": "intro_queen_am_i_dead.json"
+  },
+  {
+    "name": "intro_queen_callout",
+    "file": "intro_queen_callout.json"
+  },
+  {
+    "name": "intro_queen_foreign_script",
+    "file": "intro_queen_foreign_script.json"
+  },
+  {
+    "name": "intro_queen_sign",
+    "file": "intro_queen_sign.json"
+  },
+  {
+    "name": "intro_queen_hosts_1",
+    "file": "intro_queen_hosts_1.json"
+  },
+  {
+    "name": "intro_queen_hosts_2",
+    "file": "intro_queen_hosts_2.json"
+  },
+  {
+    "name": "intro_queen_teleporter",
+    "file": "intro_queen_teleporter.json"
+  },
+  {
+    "name": "queen_wishlist_1",
+    "file": "queen_wishlist_1.json"
+  },
+  {
+    "name": "queen_wishlist_2",
+    "file": "queen_wishlist_2.json"
+  },
+  {
+    "name": "queen_wishlist_3",
+    "file": "queen_wishlist_3.json"
+  },
+  {
+    "name": "queen_wishlist_4",
+    "file": "queen_wishlist_4.json"
+  },
+  {
+    "name": "queen_wishlist_5",
+    "file": "queen_wishlist_5.json"
+  },
+  {
+    "name": "hw_first",
+    "file": "hw_first.json"
+  },
+  {
+    "name": "hw_second",
+    "file": "hw_second.json"
+  },
+  {
+    "name": "hw_warrior_thief",
+    "file": "hw_warrior_thief.json"
+  },
+  {
+    "name": "hw_warrior_thief_end",
+    "file": "hw_warrior_thief_end.json"
+  },
+  {
+    "name": "hw_two_thieves",
+    "file": "hw_two_thieves.json"
+  },
+  {
+    "name": "hw_two_thieves_mid",
+    "file": "hw_two_thieves_mid.json"
+  },
+  {
+    "name": "hw_two_thieves_end",
+    "file": "hw_two_thieves_end.json"
+  },
+  {
+    "name": "hw_warrior_goblins",
+    "file": "hw_warrior_goblins.json"
+  },
+  {
+    "name": "hw_warrior_goblins_end",
+    "file": "hw_warrior_goblins_end.json"
+  },
+  {
+    "name": "hw_warrior_surrounded",
+    "file": "hw_warrior_surrounded.json"
+  },
+  {
+    "name": "hw_warrior_going",
+    "file": "hw_warrior_going.json"
+  },
+  {
+    "name": "hw_warrior_thief_dragons",
+    "file": "hw_warrior_thief_dragons.json"
+  },
+  {
+    "name": "promesst1_audiolog_confrontation",
+    "file": "promesst1_audiolog_confrontation.json"
+  },
+  {
+    "name": "promesst1_audiolog_egg",
+    "file": "promesst1_audiolog_egg.json"
+  },
+  {
+    "name": "promesst1_audiolog_really_egg",
+    "file": "promesst1_audiolog_really_egg.json"
+  },
+  {
+    "name": "queen_og_heroes_entry",
+    "file": "queen_og_heroes_entry.json"
+  },
+  {
+    "name": "queen_og_heroes2",
+    "file": "queen_og_heroes2.json"
+  },
+  {
+    "name": "queen_og_wardrobe",
+    "file": "queen_og_wardrobe.json"
+  },
+  {
+    "name": "queen_og_wardrobe_2",
+    "file": "queen_og_wardrobe_2.json"
+  },
+  {
+    "name": "queen_og_first_lily",
+    "file": "queen_og_first_lily.json"
+  },
+  {
+    "name": "queen_og_mirror_isles",
+    "file": "queen_og_mirror_isles.json"
+  },
+  {
+    "name": "queen_og_gold_room_first",
+    "file": "queen_og_gold_room_first.json"
+  }
+]

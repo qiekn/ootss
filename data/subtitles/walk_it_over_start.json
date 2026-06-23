@@ -1,0 +1,65 @@
+{
+  "name": "walk_it_over_start",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "",
+      "text": "Any regrets?"
+    },
+    {
+      "character": "trader_alt",
+      "marker": "0.95",
+      "comment": "",
+      "text": "I don't carry around a bunch of gold,\nlike you. Might have bigger muscles if I did."
+    },
+    {
+      "character": "trader_alt",
+      "marker": "5.88",
+      "comment": "",
+      "text": "Might be nice if people listened\nwhen I told them what to do."
+    },
+    {
+      "character": "trader",
+      "marker": "8.765",
+      "comment": "",
+      "text": "So would you take a different path?"
+    },
+    {
+      "character": "trader_alt",
+      "marker": "10.58",
+      "comment": "",
+      "text": "Eh? No! Hard to imagine who I'd be\nwith an emptier head."
+    },
+    {
+      "character": "trader",
+      "marker": "15.075",
+      "comment": "",
+      "text": "Not emptier..."
+    },
+    {
+      "character": "trader_alt",
+      "marker": "16.6",
+      "comment": "",
+      "text": "Yes, that's unfair, and an insult.\nI apologize."
+    },
+    {
+      "character": "trader_alt",
+      "marker": "20.6",
+      "comment": "",
+      "text": "Not empty, just filled with things\nthat I, personally, would value less."
+    },
+    {
+      "character": "trader_alt",
+      "marker": "25.4",
+      "comment": "",
+      "text": "And come to say,\nthese past few years,"
+    },
+    {
+      "character": "trader_alt",
+      "marker": "28.1",
+      "comment": "",
+      "text": "folk have started heeding what I say,\nas my ideas are good --\nthey recognize."
+    }
+  ]
+}

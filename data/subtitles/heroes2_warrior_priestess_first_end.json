@@ -1,0 +1,11 @@
+{
+  "name": "heroes2_warrior_priestess_first_end",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "Please travel with us.\nWe're trying to stop\na really bad guy."
+    }
+  ]
+}

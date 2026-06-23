@@ -1,0 +1,17 @@
+{
+  "name": "thief_first",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "Isidore! Valens!\nSeems I'm on my own for now."
+    },
+    {
+      "character": "thief",
+      "marker": "6.05",
+      "comment": "",
+      "text": "I don't know how far\nI can get alone..."
+    }
+  ]
+}

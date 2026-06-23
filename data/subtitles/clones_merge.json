@@ -1,0 +1,29 @@
+{
+  "name": "clones_merge",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "",
+      "text": "We need to focus."
+    },
+    {
+      "character": "trader_clone_1",
+      "marker": "1.3",
+      "comment": "",
+      "text": "I'm not sure I can do this."
+    },
+    {
+      "character": "trader",
+      "marker": "3",
+      "comment": "",
+      "text": "We will get through."
+    },
+    {
+      "character": "trader_clone_1",
+      "marker": "4.4",
+      "comment": "",
+      "text": "I'm not sure I want to get through."
+    }
+  ]
+}

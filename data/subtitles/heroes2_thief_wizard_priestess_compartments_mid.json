@@ -1,0 +1,47 @@
+{
+  "name": "heroes2_thief_wizard_priestess_compartments_mid",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "These Goblins are surly. How's he getting them into\nall the right places?"
+    },
+    {
+      "character": "wizard",
+      "marker": "4.6",
+      "comment": "Todo: Do people really know what \"charm\" means in this context?",
+      "text": "I've heard tell of those who can charm monsters and men..."
+    },
+    {
+      "character": "thief",
+      "marker": "9.06",
+      "comment": "Todo: Shorten this to \"employed such\"?",
+      "text": "Perhaps he has employed such a one!"
+    },
+    {
+      "character": "wizard",
+      "marker": "10.94",
+      "comment": "",
+      "text": "Or perhaps he has absorbed that power,\nas he has with that ... crystalization."
+    },
+    {
+      "character": "magistrate",
+      "marker": "17.3",
+      "comment": "",
+      "text": "Wouldn't you like to know!"
+    },
+    {
+      "character": "all_heroes",
+      "marker": "18.8",
+      "comment": "",
+      "text": "You!"
+    },
+    {
+      "character": "magistrate",
+      "marker": "19.7",
+      "comment": "",
+      "text": "See you soon!"
+    }
+  ]
+}

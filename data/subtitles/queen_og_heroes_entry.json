@@ -1,0 +1,17 @@
+{
+  "name": "queen_og_heroes_entry",
+  "items": [
+    {
+      "character": "queen",
+      "marker": "0",
+      "comment": "",
+      "text": "These fortifications look stalwart enough."
+    },
+    {
+      "character": "queen",
+      "marker": "3.18",
+      "comment": "",
+      "text": "Though ...\nI had thought thus about my own walls."
+    }
+  ]
+}

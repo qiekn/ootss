@@ -1,0 +1,17 @@
+{
+  "name": "promesst1_wand_strong",
+  "items": [
+    {
+      "character": "gemsman",
+      "marker": "0",
+      "comment": "",
+      "text": "This thing is so powerful.\nWhy'd they leave it buried?"
+    },
+    {
+      "character": "gemsman",
+      "marker": "3.125714",
+      "comment": "",
+      "text": "Why'd they seal it in a room\nthat's so hard to get to?"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "heroes_jail",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "That'll teach me to watch where I step."
+    },
+    {
+      "character": "thief",
+      "marker": "2.3",
+      "comment": "",
+      "text": "Traps everywhere.\nI somewhat like it!"
+    },
+    {
+      "character": "wizard",
+      "marker": "5.2",
+      "comment": "",
+      "text": "Don't worry.\nBars are no hard matter\nfor me at all!"
+    }
+  ]
+}

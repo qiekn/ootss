@@ -1,0 +1,11 @@
+{
+  "name": "queen_og_first_lily",
+  "items": [
+    {
+      "character": "queen",
+      "marker": "0",
+      "comment": "Todo: We have both Queen and Leamington using the word 'cute' and this is probably not good.",
+      "text": "Well, that was a cute ride."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "heroes2_three_first_end",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "I'll search the East!"
+    },
+    {
+      "character": "thief",
+      "marker": "1.125",
+      "comment": "",
+      "text": "I've got South!"
+    },
+    {
+      "character": "wizard",
+      "marker": "2.3",
+      "comment": "",
+      "text": "I'll check... the other ways."
+    }
+  ]
+}

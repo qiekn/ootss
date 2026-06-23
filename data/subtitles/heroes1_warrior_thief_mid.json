@@ -1,0 +1,47 @@
+{
+  "name": "heroes1_warrior_thief_mid",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "We just need to keep headed East."
+    },
+    {
+      "character": "warrior",
+      "marker": "2.104036",
+      "comment": "",
+      "text": "Oh. Okay. How do you know that?"
+    },
+    {
+      "character": "thief",
+      "marker": "6",
+      "comment": "",
+      "text": "When he locked us up, he was\ndressed for travel.\nAnd, about his neck..."
+    },
+    {
+      "character": "warrior",
+      "marker": "10.213061",
+      "comment": "",
+      "text": "You were eyeing his jewelry.\nOf course."
+    },
+    {
+      "character": "thief",
+      "marker": "13.3",
+      "comment": "Todo: distinctive, recognizable",
+      "text": "In addition to the necklaces he wore\nthe other day when he hired us,\na new, distinctive leather cord, ..."
+    },
+    {
+      "character": "warrior",
+      "marker": "20.2",
+      "comment": "",
+      "text": "Oh! Key for a locker?\nA locker, in, The Crawler?"
+    },
+    {
+      "character": "thief",
+      "marker": "24.2",
+      "comment": "(Stated simply, as the solution to all their problems.)",
+      "text": "The Crawler."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "intro_before_teleporter",
+  "items": [
+    {
+      "character": "sokoban",
+      "marker": "0",
+      "comment": "",
+      "text": "Quigley,\nIt's very strange."
+    },
+    {
+      "character": "sokoban",
+      "marker": "2.9",
+      "comment": "",
+      "text": "There are plaques with text in an unknown language,\nglyphs that don't look like our writing at all,\nbut I just ... know what they mean."
+    },
+    {
+      "character": "sokoban",
+      "marker": "12.44",
+      "comment": "",
+      "text": "This feels completely natural;"
+    },
+    {
+      "character": "sokoban",
+      "marker": "14.95",
+      "comment": "",
+      "text": "there's no slightest impression that\nI should not understand these squiggles."
+    },
+    {
+      "character": "sokoban",
+      "marker": "20.5",
+      "comment": "",
+      "text": "The signs make clear that\nthey constructed this place for strangers to find,"
+    },
+    {
+      "character": "sokoban",
+      "marker": "25",
+      "comment": "",
+      "text": "which explains why these parameters\nmade such a big bump in the sounding-outs:\nthey are advertising this place."
+    },
+    {
+      "character": "sokoban",
+      "marker": "34.38",
+      "comment": "",
+      "text": "There's something ahead ...\nI don't know where it'll take me."
+    },
+    {
+      "character": "sokoban",
+      "marker": "37.7",
+      "comment": "",
+      "text": "But of course I'm going through.\nEver onward. Ever forward."
+    }
+  ]
+}

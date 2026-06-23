@@ -1,0 +1,29 @@
+{
+  "name": "heroes3_wizard_druid_first",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "My guild has a lot of secrets too."
+    },
+    {
+      "character": "druid",
+      "marker": "2.25",
+      "comment": "Todo: Not really a good line.",
+      "text": "The way you cross empty space\nseems blatant, not a secret at all."
+    },
+    {
+      "character": "wizard",
+      "marker": "6.625",
+      "comment": "Todo: cumbersome -> requires much heavy equipment",
+      "text": "Normally it's slow and cumbersome.\nI was working on a way to speed it up..."
+    },
+    {
+      "character": "wizard",
+      "marker": "11.625",
+      "comment": "",
+      "text": "I did exceed myself somewhat."
+    }
+  ]
+}

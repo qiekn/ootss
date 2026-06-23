@@ -1,0 +1,29 @@
+{
+  "name": "clones_first_confusion",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "",
+      "text": "I feel light-headed, and light-hearted.\nMight I learn to hold glass to the sun\ntil that light is focused, actinic and burning?"
+    },
+    {
+      "character": "trader_clone_1",
+      "marker": "10.3",
+      "comment": "",
+      "text": "My course was right already.\nWhat merchant casts so wide a net?\nMy trade carries light\nto many thousands,\nleaving each the brighter."
+    },
+    {
+      "character": "trader",
+      "marker": "20.2",
+      "comment": "",
+      "text": "I could find peace\nin these isles, and beyond."
+    },
+    {
+      "character": "trader_clone_1",
+      "marker": "23.9",
+      "comment": "",
+      "text": "Have you ever met a seeker\nwho shone with real success?\nOr are they coaxing you away\nfrom the warmth already yours?"
+    }
+  ]
+}

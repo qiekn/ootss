@@ -1,0 +1,3473 @@
+[1]
+
+:: warrior_heroes1_start
+= warrior 0
+What just happened?
+I've never seen bars just
+dissolve like that.
+
+= _ 4.73
+
+
+:: warrior_heroes1_start_end
+= warrior 0
+When we catch this guy,
+I'm going to give him
+a big piece of my mind.
+
+= warrior 3.8
+Wish I could punch him. Hard.
+
+= _ 6.6
+
+
+:: warrior_heroes1_call
+= warrior 0
+This place is so huge.
+How am I going to find
+the others?
+
+= warrior 5.5
+Tif! Isidore!
+
+= warrior 9.77
+Seems I'm on my own for now.
+Let's go.
+
+= _ 14
+
+
+:: heroes_warrior_gate
+= warrior 0
+Oh, one of these.
+Stay out of my way, you stupid ... energy.
+
+= _ 5.34
+
+
+:: heroes_warrior_gate_end
+= warrior 0
+++ Todo: Probably he doesn't know or care enough about how they work to think this. So we want a different kind of early leading clue thought here.
+So much energy needed
+to keep these gates going ...
+why, in such an empty place?
+
+= _ 5.75
+
+
+:: heroes_warrior_mistrust
+= warrior 0
+Magistrate Reynard felt slimy to me
+from the beginning.
+
+= warrior 3.7
+I should have said something,
+but we needed the job.
+
+= _ 6.4
+
+
+:: heroes_warrior_where_is_tif
+= warrior 0
+Tif should see this hall,
+it's so bright and shiny.
+
+= warrior 3.9
+I hope that girl's okay.
+
+= _ 6.4
+
+
+:: thief_first
+= thief 0
+Isidore! Valens!
+Seems I'm on my own for now.
+
+= thief 6.05
+I don't know how far
+I can get alone...
+
+= _ 8.45
+
+
+:: heroes1_5
+= thief 0
+Sometimes I feel like I'm being watched.
+It's creepy,
+
+= thief 3.5
+but maybe a little nice?
+Someone cares about me!
+
+= thief 7.3
+Someone creepy cares about me...
+
+= _ 10.5
+
+
+:: heroes_tif_so_much_space
+= thief 0
+++ (She's commenting on the weird shape of the courtyards she's in; the "wouldn't mind to know him" is not romantic in nature, she just likes to get to know people.)
+So many odd-shapen courts;
+The architect must be a slight deranged.
+Wouldn't mind to know him!
+
+= _ 7.1
+
+
+:: heroes_tif_lone_crystal
+= thief 0
+Come along, crystal friend,
+we've somewhere you need to go.
+
+= _ 3.2
+
+
+:: heroes_tif_return
+= thief 0
+We'll be back for you.
+Don't worry.
+
+= _ 1.9
+
+
+:: heroes1_thief_three_crystals_end
+= thief 0
+Whoever you are,
+hold tight.
+
+= thief 1.84
+We'll pull you out of this.
+
+= _ 3.4
+
+
+:: heroes1_wizard_1
+= wizard 0
+++ (to himself)
+Still don't understand
+how I got out of there --
+
+= wizard 2.75
+some kind of intervention
+from afar --
+
+= wizard 5.7
+First, I'll find the others.
+
+= _ 8.5
+
+
+:: heroes1_wizard_2
+= wizard 0
+++ (to himself)
+At least the Magistrate
+went crazy before the job --
+
+= wizard 2.8
+If we'd moved
+all these crystals out,
+I'd have naught to work with now.
+
+= _ 7
+
+
+:: heroes1_wizard_2_end
+= wizard 0
+Tif! Tif, where are you?
+
+= _ 2.4
+
+
+:: heroes1_wizard_three_crystals
+= wizard 0
+++ (to himself)
+Tif and Valens can't be far.
+I was imprisoned but a few hours --
+
+= wizard 3.73
+I'll find the Magistrate --
+he'll explain himself.
+
+= _ 6.5
+
+
+:: heroes1_wizard_three_crystals_end
+= wizard 0
+++ (to himself)
+That Magistrate.
+We were so professional,
+and he was so incredibly rude.
+
+= _ 5.6
+
+
+:: heroes1_wizard_array
+= wizard 0
+++ (to himself)
+Arrayed like an improvised gallery
+or trophy room.
+
+= wizard 3.8
+A variety of colors --
+He really likes colors?
+
+= _ 8.7
+
+
+:: heroes1_wizard_array_end
+= wizard 0
+Strangely cut, they felt
+lifelike, almost ... possessed.
+
+= _ 5
+
+
+:: heroes1_warrior_wizard
+= wizard 0
+Valens! Finally!
+
+= warrior 2.9
+Hey Izzy...
+
+= wizard 4
+I am glad you came along,
+it seems I can't get out my way.
+
+= warrior 9.9
+I can't get out my way either.
+
+= wizard 11.9
+We'll figure it out.
+
+= warrior 13.3
+We always do!
+
+= _ 15.3
+
+
+:: heroes1_warrior_wizard_end
+= warrior 0
+Let's go get
+that stupid magistrate.
+
+= wizard 2.5
+Let's go get
+that stupid magistrate...
+and find Tif.
+
+= _ 7.125
+
+
+:: heroes1_warrior_thief
+= warrior 0
+Tif! Are you all right?
+
+= thief 2.22
+Of course, of course, shush,
+we've got to catch the Magistrate!
+Where's Izzy?
+
+= warrior 6.56
+He went the other way
+looking for you.
+
+= thief 8.9
+Well, let's find him.
+Which other way?
+
+= warrior 11.9
+++ (Realizes he doesn't know)
+Yeah... there are a lot
+of Other Ways in here.
+
+= _ 17.3
+
+
+:: heroes1_warrior_thief_mid0
+= warrior 0
+Even when we find Izzy again,
+then what? We just leave,
+no harm done?
+
+= thief 4.37
+I know where that Magistrate's going.
+We've got to catch up.
+
+= _ 6.74
+
+
+:: heroes1_warrior_thief_mid
+= thief 0
+We just need to keep headed East.
+
+= warrior 2.104036
+Oh. Okay. How do you know that?
+
+= thief 6
+When he locked us up, he was
+dressed for travel.
+And, about his neck...
+
+= warrior 10.213061
+You were eyeing his jewelry.
+Of course.
+
+= thief 13.3
+++ Todo: distinctive, recognizable
+In addition to the necklaces he wore
+the other day when he hired us,
+a new, distinctive leather cord, ...
+
+= warrior 20.2
+Oh! Key for a locker?
+A locker, in, The Crawler?
+
+= thief 24.2
+++ (Stated simply, as the solution to all their problems.)
+The Crawler.
+
+= _ 25.6
+
+
+:: heroes1_warrior_thief_end
+= warrior 0
+++ (Echoing the refrain from heroes1_warrior_wizard_end)
+Let's go get that stupid magistrate!
+
+= thief 2.8
+++ (Starting to echo this, but stopping)
+Let's go get that ...
+I mean,
+he's not stupid though!
+
+= warrior 6
+I mean we don't like him!
+
+= thief 7.3
+Everyone has redeeming qualities though!
+
+= warrior 9.4
+Oh my God.
+
+= _ 11.774059
+
+
+:: heroes1_wizard_thief
+= thief 0
+++ Todo: Need to massage this a bit for the final line to really make sense, since in this first line it's like she knows she is saying it the first time.
+I told him
+we need to get out of this ...
+echoey lonely place,
+
+= thief 3.4
+then head
+to the passengers' retrenchment
+for the Crawler.
+
+= wizard 6.4
+Oh. That's ... where we're going?
+
+= thief 9.375
+Didn't I say?
+I did now I guess!
+
+= _ 12.25
+
+
+:: heroes1_wizard_thief_end
+= thief 0
+We still work well together!
+
+= wizard 2.05
+That we do!
+
+= _ 3.56
+
+
+:: heroes1_warrior_wizard_confused
+= wizard 0
+We were just giving him the tally
+for the move -- as we'd agreed --
+
+= wizard 3.6
+and slammo, he jails us.
+I still don't understand.
+
+= warrior 8.125
+It would've been a far bigger move than
+he'd told me at the banquet.
+
+= warrior 11.75
+Did he think we were exaggerating,
+trying to overbill?
+
+= wizard 15
+Bit of an overreaction...
+
+= _ 19.204445
+
+
+:: heroes1_warrior_wizard_confused_mid
+= warrior 0
+When he had his guards seize us...
+Tif didn't seem surprised.
+
+= wizard 4.87
+Come to think ... did she look a bit
+sheepish to you?
+
+= warrior 8.25
+More than sheepish.
+Guilty-ish.
+
+= _ 11.14
+
+
+:: heroes1_warrior_wizard_confused_end
+= warrior 0
+Who ever heard of
+a castle full of man-sized crystals,
+anyway?
+
+= warrior 4.1
+Isn't this whole thing
+extremely weird?
+
+= _ 5.787029
+
+
+:: heroes_three_for_the_first_time_optional
+= warrior 0
+++ "Open the bag" is a colloqualism, like "spill the beans".
+Tif. Open the bag. What did you do?
+
+= thief 3.03
+Well, you see,
+the Magistrate has been up to something.
+
+= warrior 7.6
+Yeah, locking us up in jail!
+
+= wizard 10.5
+I've been ... thinking ...
+That could have been an honest misunderstanding.
+
+= warrior 15.36
+Hardly!
+
+= thief 16
+He's been up to something
+really bad!
+
+= _ 18.375
+
+
+:: heroes_three_for_the_first_time_optional_end
+= wizard 0
+++ (Having a realization and a leap of deduction)
+So Tif,
+He locked us up ...
+because of you?
+
+= thief 5.25
+It's a bit like that.
+
+= _ 7
+
+
+:: heroes_three_for_the_first_time_mandatory
+= warrior 0
+Tif ... why did the Magistrate lock us up?
+
+= thief 3.05
+Sometimes things just follow me home.
+Without me doing anything.
+You know how it is.
+
+= wizard 8.3
+You stole from him?
+
+= _ 10.77034
+
+
+:: heroes_three_for_the_first_time_mandatory_end
+= warrior 0
+What followed you home, in this case, was...?
+
+= thief 2.55
+Yeah, a case! How did you ...
+A little cask with nice handles for grabbing.
+I'd thought it might be full of shiny things,
+
+= thief 10.2
+++ (a little disappointed that they are just papers)
+but it only held papers and notes.
+
+= _ 12.62
+
+
+:: heroes_three_for_the_second_time_mandatory
+= warrior 0
+He locked us up because you stole his case?
+
+= thief 3.3
+++ (picking up enthusiasm because even though notes are not gold, they have juicy gossip etc)
+Little notes tell you a lot about people, you know?
+Reading between the lines.
+
+= thief 8.1
+I wanted to know who this guy really was.
+So I read them.
+
+= wizard 12.4
+And?
+
+= thief 13.6
+We should have never taken this job,
+or maybe we should have -- as we did --
+because if we didn't,
+
+= thief 19.12
+we wouldn't know what we know,
+which is, we have to stop him.
+
+= _ 22.2
+
+
+:: heroes_three_for_the_second_time_mandatory_end
+= wizard 0
+Stop him, from what?
+
+= thief 1.3
+We need to talk about these crystals.
+
+= _ 3.5
+
+
+:: heroes_jail
+= warrior 0
+That'll teach me to watch where I step.
+
+= thief 2.3
+Traps everywhere.
+I somewhat like it!
+
+= wizard 5.2
+Don't worry.
+Bars are no hard matter
+for me at all!
+
+= _ 9.1
+
+
+:: heroes_jail2
+= warrior 0
+You said bars were no hard matter...
+
+= thief 2.15
+... and tempted Providence!
+No bars this time!
+
+= magistrate 5.448
+Indeed, no more bars for you,
+Gravy Sorcerer!
+
+= wizard 9.8
+++ He is confused -- he *did* do research on how to keep gravy warm on the table, with MODERATE SUCCESS mind you ... but from the tone he knows this is supposed to be an insult. Flustered about how to reply.
+You -- !
+
+= thief 11.12
+You!
+
+= warrior 11.5
+You!
+
+= magistrate 12.25
+Let us be off, Ratleigh,
+and leave them to ponder their mistakes...
+of which, there are so, SO many.
+
+= wizard 20
+Wait!
+You still haven't paid us
+for the appraisal!
+
+= _ 23.5
+
+
+:: heroes_jail2_mid
+= wizard 0
+He's high-enough ranked,
+he can command the Crawler to depart.
+
+= wizard 4
+We're not likely to catch him.
+
+= warrior 5.75
+There's another way across the Badlands.
+
+= wizard 8.1
+Oh ... hmm?
+
+= thief 10.5
+The Caravan,
+the Royal Caravan?
+
+= thief 13
+Valens, can you get us in with them?
+
+= wizard 15.4
+Even if ...
+first day of the season
+isn't for two weeks yet.
+
+= _ 19.5
+
+
+:: heroes_jail2_mid2
+= wizard 0
+If the King knew
+his head Magistrate's exceeding his charge,
+
+= wizard 3.7
+crystalizing lesser nobles
+without rhyme nor reason...
+
+= wizard 7.8
+he might consider it an emergency.
+
+= warrior 11.12
+We can play it up a little,
+insinuate he's looking to usurp the throne.
+
+= thief 15
+Ooh. Which he may really be!
+
+= thief 17.35
+If I were the King, I'd send
+the Caravan immediately!
+
+= thief 20.6
+To get him!!
+
+= _ 22.25
+
+
+:: heroes_jail2_end
+= thief 0
+The Caravan! I bet we'll meet
+all kinds of new friends.
+
+= wizard 3.9
+After being stuck in this place,
+I'll enjoy travelling in luxury...
+
+= warrior 8.68
+I've heard the food is good.
+They'll have plenty of gravy for you.
+
+= wizard 12.18
+++ Upset, but flustered enough he has no idea what to say.
+Don't you -- !
+
+= thief 13.18
+Save the arguing for the King!
+Or the ... Lord Chamberlain,
+or whoever we can get to!
+
+= warrior 19.1
+Agreed. Let's go.
+
+= wizard 20.85
+Let's go.
+
+= _ 21.875
+
+
+:: heroes2_warrior_goblins_1
+= warrior 0
+Sore back,
+crick in my neck,
+two days without sleep,
+
+= warrior 3.78
+and now...
+goblins.
+
+= _ 6.4
+
+
+:: heroes2_warrior_goblins_2
+= warrior 0
+Was hoping that'd take me out,
+not further in.
+
+= _ 3
+
+
+:: heroes2_warrior_goblins_2_mid
+= warrior 0
+If I could still swing a sword,
+this would be
+a very different situation.
+
+= _ 3.75
+
+
+:: heroes2_warrior_goblins_2_mid_2
+= warrior 0
+If I'd a sword,
+we might've repelled those raiders,
+and I wouldn't even be here.
+
+= _ 4.18
+
+
+:: heroes2_warrior_goblins_2_end
+= warrior 0
+Thank God to be out of there!
+
+= _ 1.94
+
+
+:: heroes2_thief_goblins
+= thief 0
+Hello there, pals!
+
+= thief 1.4
+We can just be nice to each other,
+if you want...
+
+= _ 4.3
+
+
+:: heroes2_thief_goblins_mid
+= thief 0
+++ (To herself)
+++ Todo: Make this more natural.
+This is far from my homeland,
+but I'd been told
+
+= thief 2.5
+we shouldn't see goblins
+this close to the city?
+
+= thief 5.6
+Supposed to be actively hunted
+any time they come within a day's march.
+
+= _ 9.563
+
+
+:: heroes2_wizard_goblins
+= wizard 0
+I'd have thought the caravan's defenses
+would hold for longer,
+
+= wizard 2.75
+but I'm glad to still be alive,
+hale body, hale mind.
+
+= _ 7.4
+
+
+:: heroes2_wizard_goblins_mid
+= wizard 0
+Don't know why they didn't like
+the word "hale".
+
+= wizard 2.445
+"Hale Heroes of Hauling"
+sounds upscale and smart.
+
+= _ 6.5
+
+
+:: heroes2_warrior_dragon_intro
+= warrior 0
+Town's been overrun.
+Caravan should have got moving sooner.
+
+= _ 4.06
+
+
+:: heroes2_warrior_dragon_intro_end
+= warrior 0
+Onward to the muster-place.
+
+= _ 2
+
+
+:: heroes2_thief_dragons_intro
+= thief 0
+Hey there boy-os,
+I don't suppose anyone ever
+keeps you as pets?
+
+= _ 4.8
+
+
+:: heroes2_thief_dragons_second
+= thief 0
+Hmm, a crystal.
+It's fresh.
+
+= thief 3.245
+The Magistrate has been here,
+and not long ago.
+
+= _ 5.75
+
+
+:: heroes2_thief_dragons_second_end
+= thief 0
+Despite all the obstacles,
+our paths being shunted this way and that,
+we're advancing just fine.
+
+= _ 5.4
+
+
+:: heroes2_thief_dragons_third
+= thief 0
+Another crystal.
+Following the trail...
+
+= _ 3.2
+
+
+:: heroes2_thief_dragons_third_end
+= thief 0
+Is that the crack of a teleport I hear?
+Izzy, is that you?
+
+= _ 4.3
+
+
+:: heroes2_three_first
+= wizard 0
+Together again!
+
+= thief 1.2
+He tried to stop us,
+but he couldn't!
+
+= warrior 4.125
+He? You think Reynard
+was behind the attack on the caravan?
+
+= thief 7.7
+++ Todo: motivation? etc.
+Well, someone had a pretty big reason.
+Perhaps that reason was us.
+
+= _ 12.53
+
+
+:: heroes2_three_first_mid
+= wizard 0
+I'm surprised you weren't praying
+for an ambush.
+
+= wizard 2.6
+Up til then, the voyage must have been
+pretty awkward.
+
+= warrior 5.43
+Not at all. It's only the higher-ups who
+pretend to hate me. The regular guys
+on the line, they respect what I did.
+
+= thief 12.5
+Izzy, can't you see how they looked at him?
+They all wanted to be him,
+... and they were glad not to be him.
+
+= warrior 18.625
+Let's just keep moving.
+
+= _ 23.151836
+
+
+:: heroes2_three_first_end
+= warrior 0
+I'll search the East!
+
+= thief 1.125
+I've got South!
+
+= wizard 2.3
+I'll check... the other ways.
+
+= _ 4.85
+
+
+:: heroes2_warrior_monster_gate_first
+= warrior 0
+Another dumb ... energy ... box.
+
+= _ 3.43
+
+
+:: heroes2_warrior_monster_gate_first_end
+= warrior 0
+Dumb energy box is no match for me!
+
+= _ 2.3
+
+
+:: heroes2_warrior_monster_gate_2_optional
+= warrior 0
+At least these are just crystallized plants.
+
+= _ 4.75
+
+
+:: heroes2_warrior_monster_gate_2_optional_end
+= warrior 0
+Thank God they didn't foresee
+I'd push crystals as a weapon.
+
+= _ 5.37
+
+
+:: heroes2_warrior_3monster
+= warrior 0
+This will all have been worth it
+once they dispel my shackles.
+
+= _ 3.125
+
+
+:: heroes2_warrior_3monster_end
+= warrior 0
+Can't wait to deliver this guy
+directly to the King.
+
+= _ 3.125
+
+
+:: heroes2_postmeetup_thief
+= thief 0
+If I'd known that starting a moving company
+would lead to big adventures,
+
+= thief 3
+I'd have done it so much sooner!
+
+= _ 5.5
+
+
+:: heroes2_postmeetup_warrior
+= warrior 0
+Who'd have guessed that starting a moving company
+could lead to my absolution.
+
+= warrior 6.771
+We've got to get this done.
+
+= _ 8.4
+
+
+:: heroes2_postmeetup_wizard
+= wizard 0
+++ Todo: Maybe this whole sequence is really not cute at all because this is how all private guards are in the USA anyway, so it's just, like, documenting reality.
+Had I known that starting a moving company
+would lead me into the East,
+
+= wizard 3.38
+surrounded by foul creatures,
+nary a book brought with me,
+
+= wizard 7
+I'd have started some company
+about being sedentary, instead.
+
+= wizard 11.8
+Like ... Guards. But, guards
+that never have any trouble.
+
+= wizard 17.3
+Casual guards,
+for buildings where nobody goes,
+
+= wizard 21.8
+small, no walking,
+we just sit there.
+
+= wizard 25.7
+Warming our feet
+by the fire.
+
+= _ 28.5
+
+
+:: heroes2_postmeetup_wizard_mid
+= wizard 0
+Plenty of fires round here, I suppose.
+Not the sort I prefer, though.
+
+= _ 5.02975
+
+
+:: heroes2_warrior_goblins_vs_dragon
+= warrior 0
+Oh, we're about to have some fun,
+aren't we?
+
+= _ 3.75
+
+
+:: heroes2_warrior_goblins_vs_dragon_end
+= warrior 0
+Dead monsters ... satisfying.
+
+= _ 2.7
+
+
+:: heroes2_wizard_per_turn_goblins
+= wizard 0
+Let's think about this.
+
+= wizard 1.55
+Magistrate Reynard flees to the East,
+and about the time he gets here,
+it's overrun by monsters.
+
+= wizard 8.89
+++ Todo: jump discontinuously to that.
+Possibility the First: It's a coincidence.
+Perhaps, but let's not jump to that.
+
+= wizard 15.85
+Possibility the Second: He caused this
+in some way. For what reason?
+
+= wizard 22.7
+To slow us down?
+That's a lot of chaos just for us.
+
+= wizard 28.58
+Possibility the Third: He came East
+because this was about to happen,
+
+= wizard 35.5
+and he knew. And he wants to stop it?
+Or take advantage in some way?
+
+= _ 42
+
+
+:: heroes2_wizard_per_turn_goblins_end
+= wizard 0
+Thanks for helping me out, fella!
+And thank your friends for helping me think.
+
+= _ 5.2
+
+
+:: heroes2_one_fire_warrior_thief_optional
+= thief 0
+++ Todo: "Clubs aren't sharp. Dirks are small, it could sneak through."
+So use a club? Or a dirk?
+
+= warrior 2.125
+++ Todo: "The binding stops".
+"Swordbound" doesn't mean just swords.
+It stops any kind of intent to attack.
+
+= thief 7.188
+Throw a rock? Punch them?
+
+= warrior 9.284263
+++ Todo: "push them sternly with my fist."
+I could somewhat punch them.
+Not hard enough to do any good.
+
+= _ 12.75
+
+
+:: heroes2_one_fire_warrior_thief_optional_end
+= thief 0
+See, when we work together,
+you don't need a club!
+
+= warrior 3
+Not today at least.
+Let's hope our luck holds.
+
+= _ 6.188
+
+
+:: heroes2_wizard_priestess_first
+= wizard 0
+Why hello there! We seem to be
+in a spot of trouble.
+
+= priestess 4.7
+...
+
+= wizard 8.063
+Normally, goblins are no problem for me,
+no problem at all,
+but, this passageway is so narrow...
+
+= priestess 18
+...
+
+= _ 21
+
+
+:: heroes2_wizard_priestess_first_end
+= wizard 0
+Thank you, good ... miss?
+
+= _ 3.57
+
+
+:: heroes2_warrior_priestess_first
+= warrior 0
+I'm so happy to have some help.
+Once-a-time I would have
+slain these goblins easily,
+
+= warrior 5.5
+but I can't now.
+Restrictions.
+
+= _ 8.3
+
+
+:: heroes2_warrior_priestess_first_end
+= warrior 0
+Please travel with us.
+We're trying to stop
+a really bad guy.
+
+= _ 4.05
+
+
+:: heroes2_warrior_priestess_second
+= warrior 0
+If we catch the Magistrate,
+the King will release me.
+
+= warrior 2.9
+And that will change my life.
+Again.
+
+= warrior 6.9
+But ignoring that,
+I'd capture this snakeweasel just on principle.
+His trail of destruction is
+pretty long at this point.
+
+= _ 14.25
+
+
+:: heroes2_warrior_priestess_second_end
+= warrior 0
+My meeting spot
+with my friend Tif is up ahead.
+You'll like her.
+
+= _ 3.5
+
+
+:: heroes2_thief_priestess_first
+= thief 0
+I love having another girl on this trip.
+
+= thief 3.125
+Don't get me wrong,
+the boys are great,
+but ... it's not the same.
+
+= _ 6.94
+
+
+:: heroes2_thief_priestess_second
+= thief 0
+... and that's when we decided
+to finally start the company.
+
+= thief 2.7
+We're all good at moving things
+in our own ways,
+
+= thief 4.8
+and we'd gained so much experience
+working at loading docks
+and so forth.
+
+= _ 8.8
+
+
+:: heroes2_thief_priestess_second_mid_warrior
+= thief 0
+Valens is incredibly strong.
+He said it's a trick,
+but the details are hard to talk about.
+
+= thief 5.75
+Said he was taught by an older man,
+another soldier.
+
+= thief 8.1
+Another disgraced solider.
+
+= _ 11
+
+
+:: heroes2_thief_priestess_second_mid_disgraced
+= thief 0
+Don't tell him I said "disgraced",
+haha!
+
+= thief 2.1
+They have some official term for it.
+A neutral term.
+
+= _ 5.3
+
+
+:: heroes2_thief_priestess_second_mid_wizard
+= thief 0
+Izzy's swap powers are amazing.
+Happened in some kind of accident.
+
+= thief 4.35
+Great for moving heavy stuff though.
+
+= thief 5.8
+But not so great for getting close to people.
+
+= _ 8.94
+
+
+:: heroes2_thief_priestess_second_end
+= thief 0
+I'm glad we had this time to talk!
+
+= _ 2
+
+
+:: heroes2_wizard_and_priestess_alone_first
+= wizard 0
+Have you ever just clumsily dropped something?
+You had an easy grip, everything is normal and fine,
+
+= wizard 7.17
+you were just turning to put some powders
+into a tincture --
+
+= wizard 11.2
+the tray clatters to the floor.
+
+= wizard 14.125
+Oh, it'll take hours to re-grind those powders.
+
+= wizard 17.535
+How hard was it just to keep my fingers clasped?
+Did they open due to some kind of internal sedition?
+
+= wizard 26.566
+++ Todo: Some more explanation here; *want* to make a mess why? To avoid an appointment, to not take the medicine I know I'm supposed to take?
+Did some part of me want to make a mess?
+
+= wizard 30.6
+Or, have you ever -- the candles flickering suggestively,
+the warmth of the air just so --
+
+= wizard 39
+++ Todo: the sheen of her hairy, hairy legs
+Well you didn't have to use the word "donkey",
+even if the sheen of the hair on her legs --
+
+= wizard 45.7
+in a nice way I mean --
+
+= wizard 48
+it was like dropping the reagents, just like that.
+
+= _ 51.25
+
+
+:: heroes2_wizard_and_priestess_alone_second
+= wizard 0
+At times like those I just wonder
+if there's some mind behind the mind,
+
+= wizard 5.15
+something with goals askew
+to what we think we want,
+
+= wizard 9.37
+something that creates misadventures
+just to put us where it wants us.
+
+= _ 16.1
+
+
+:: heroes2_wizard_and_priestess_alone_third
+= wizard 0
+I was so careful, for so long.
+I was careful, I was careful,
+I was careful, I was careful, then ...
+
+= wizard 14.75
+One day I woke up at 3 in the morning,
+full of energy, yearning to just do it all.
+
+= wizard 18.8
+++ Todo: "this has been enough careful" can be replaced by the "making me old" line, for brevity?
+Thinking, this has been enough careful and
+it's time to just leap ahead.
+All this time being careful is making me old!
+
+= wizard 26.378
+I was working feverishly,
+half-asleep, blearily...
+
+= wizard 30
+No surprise, -- a mistake.
+The stone was vibrating with power,
+and, I dropped it --
+
+= wizard 38.7
+++ Todo: Maybe just "piercing me" and something to add a little at the end.
+exploding,
+tiny fragments of darklith flying,
+piercing my body --
+
+= wizard 45.7
+and thus, I am as I am today.
+
+= _ 48
+
+
+:: heroes2_wizard_and_priestess_alone_third_end
+= wizard 0
+So it was an accident,
+but many a fool would love to do
+what I can do.
+
+= wizard 6.25
+So maybe it was on purpose?
+Maybe I wrecked my life intentionally,
+a mind askew my mind?
+
+= _ 16.25
+
+
+:: heroes2_wizard_thief_priestess_goblins
+= thief 0
+A Guardsman told me
+they all saw incredible smoke
+coming from the mountains, last week.
+
+= wizard 4.55
+There was a fire in the goblin caves?
+A huge accident?
+Or, -- maybe someone smoked them out intentionally...
+
+= thief 12.62
+Then how'd the dragons get here?
+They don't mind smoke.
+
+= wizard 15.75
+Maybe the dragons made the smoke...
+
+= _ 18.75
+
+
+: heroes2_thief_wizard_priestess_compartments
+= magistrate 0
+Observe, Ratleigh,
+how the complexities of this mechanism
+slow them
+
+= magistrate 4.890431
+while we bait the final trap.
+Let us be off.
+
+= all_heroes 7.2
+You!
+
+= _ 8.3
+
+
+:: heroes2_thief_wizard_priestess_compartments_mid
+= thief 0
+These Goblins are surly. How's he getting them into
+all the right places?
+
+= wizard 4.6
+++ Todo: Do people really know what "charm" means in this context?
+I've heard tell of those who can charm monsters and men...
+
+= thief 9.06
+++ Todo: Shorten this to "employed such"?
+Perhaps he has employed such a one!
+
+= wizard 10.94
+Or perhaps he has absorbed that power,
+as he has with that ... crystalization.
+
+= magistrate 17.3
+Wouldn't you like to know!
+
+= all_heroes 18.8
+You!
+
+= magistrate 19.7
+See you soon!
+
+= _ 22.483719
+
+
+:: heroes2_four
+= magistrate 0
+Walls did not contain them, Ratleigh,
+so behold: we now put Dragons to this use.
+
+= magistrate 6.469388
+Fire will hold them. I delegate this to you,
+and now I say, goodbye!
+
+= warrior 11.5
+So you're telling me
+he's getting away from us again?
+
+= thief 14.3
+I prefer to think of it as,
+we're closing in on him!
+
+= warrior 18
+Huh?
+
+= thief 18.6
+Across the canyon,
+he'll be in a place
+where he has no friends,
+
+= thief 21.7
+and his rank means nothing.
+
+= wizard 24.05
+Our status as emissaries of the King
+might also mean nothing.
+
+= thief 27.8
+We'll be diplomats!
+They'll spread the carpets
+for us!
+
+= warrior 31.4
+Before we begin our careers as diplomats,
+we'll have to get out of this trap.
+
+= _ 35.81
+
+
+: heroes3_bard_first
+= bard 0
+Goblins, all the way down here?
+
+= _ 2.614875
+
+
+: heroes3_bard_first_end
+= bard 0
+Goblins aren't known for travel.
+I wonder what brought them here.
+
+= _ 5.679909
+
+
+: heroes3_bard_second
+= bard 0
+This used to be a nice place.
+A girl can hardly get around, now.
+
+= _ 5.21551
+
+
+: heroes3_bard_second_end
+= bard 0
+Good riddance.
+
+= _ 1.082358
+
+
+: heroes3_bard_crystals_first
+= bard 0
+Ahh, the strange crystals. Finally.
+Are they filled with life
+as I've been told?
+
+= _ 7.955465
+
+
+: heroes3_bard_crystals_first_mid
+= bard 0
+They do respond, and move!
+So funny.
+How can it be?
+
+= _ 4.518911
+
+
+: heroes3_bard_crystals_first_end
+= bard 0
+Now, to find the man who made these.
+
+= _ 2.707755
+
+
+: heroes3_bard_two_goblins
+= bard 0
+Well, boys.
+What can we do with you.
+
+= _ 3.311474
+
+
+: heroes3_bard_two_goblins_end
+= bard 0
+Glad to be done with them!
+
+= _ 1.639637
+
+
+: heroes3_bard_warrior_first
+= bard 0
+Hey fellow traveler,
+mind helping me out?
+
+= warrior 2.875
+I ... uh ... yes,
+yes of course!
+
+= _ 6.57
+
+
+: heroes3_bard_warrior_first_end
+= bard 0
+A girl likes to be manhandled
+once in a while.
+
+= bard 3.08
+Makes her feel alive.
+
+= warrior 4.45
+Oh my God.
+
+= bard 6.3
+++ In a teasing way, not an angry way
+But don't get used to it.
+
+= _ 8.3
+
+
+: heroes3_druid_thief_first
+= druid 0
+Hail there!
+You look to be from the West.
+
+= thief 2.25
+Indeed I am, friend!
+
+= druid 4
+I was headed to the West Country,
+but my plans were just interrupted.
+
+= thief 7.5
+Pleasure or Business?
+
+= druid 9.625
+No pleasure involved.
+Just looking for someone.
+
+= _ 12.75
+
+
+: heroes3_druid_thief_crystal
+= thief 0
+Soooo, I think I know
+who you're looking for.
+
+= druid 3.125
+Ah yes?
+
+= thief 3.875
+We're after him too.
+
+= _ 5.375
+
+
+: heroes3_druid_thief_first_end
+= thief 0
+Come, I've some friends
+you should meet.
+
+= _ 2.25
+
+
+: heroes3_druid_warrior_first
+= druid 0
+And ever since then,
+unethical use of transmutation
+has been explicitly prohibited.
+
+= warrior 5.5
+I see.
+
+= druid 6.5
+Or unauthorized use, generally.
+No publicly-visible use
+except in life-or-death situations.
+
+= warrior 12.5
+I see.
+
+= druid 14.125
+There's a scroll called
+The Constraints on the Sacred Art of Transmutation
+("The Constraints" for short),
+
+= druid 21.25
+that we all must memorize and swear by,
+and which lays out the restrictions in detail.
+
+= druid 27.206348
+For example, we shall not transmute
+a flowering bush or tree in the springtime,
+
+= druid 31.775
+unless the flowers are blue or violet,
+or the plant also bears fruit
+smaller than a half thimble in size.
+
+= warrior 38
+Yeah. Plants are so fascinating.
+
+= _ 41.5
+
+
+: heroes3_druid_warrior_first_end
+= druid 0
+None but we are meant to know.
+
+= _ 1.964717
+
+
+: heroes3_druid_warrior_second
+= druid 0
+I'll speak without reserve,
+if can you keep a secret?
+
+= warrior 3.75
+Better than my friends can...
+
+= druid 5.625
+The lore among our people
+is that transmutation
+
+= druid 8.875
+is an inborn endowment
+held by only a lucky few,
+
+= druid 12.875
+and that can only be elicited
+by a decade of training.
+
+= warrior 16
+I see.
+
+= druid 17.5
+Thus we protect the secret.
+If there is no trick,
+
+= druid 21.375
+nobody can steal the trick
+and abuse it.
+
+= warrior 24.125
+But he did.
+
+= druid 25.625
+He did.
+
+= _ 26.875
+
+
+: heroes3_wizard_druid_first
+= wizard 0
+My guild has a lot of secrets too.
+
+= druid 2.25
+++ Todo: Not really a good line.
+The way you cross empty space
+seems blatant, not a secret at all.
+
+= wizard 6.625
+++ Todo: cumbersome -> requires much heavy equipment
+Normally it's slow and cumbersome.
+I was working on a way to speed it up...
+
+= wizard 11.625
+I did exceed myself somewhat.
+
+= _ 13.5
+
+
+: heroes3_wizard_druid_second
+= wizard 0
+How long has your guild practiced transmutation?
+
+= druid 2.875
+Tales of our origin are forgotten.
+Four hundred years at least.
+
+= wizard 7
+++ Todo: That's a while...
+Pretty good! Pretty ...
+that's a long time.
+
+= _ 10.875
+
+
+: promesst1_end
+= _ 0
+
+= gemsman 0.2
++ sound video_character_surprised 1
+What's this?
+
+= gemsman 1.421678
+What the...
+
+= _ 2.411156
++ sound video_character_no_longer_surprised 10
+
+
+: promesst1_start
+= gemsman 0
+Breathable. That's good.
+Suit, don't fall apart on me
+down here.
+
+= _ 4.518911
+
+
+: promesst1_gems
+= gemsman 0
+This wasn't rumored to be an unusually big pocket,
+so I should be able to handle it.
+It was rumored to be full of gems, still.
+
+= _ 8.884263
+
+
+: promesst1_lovely
+= gemsman 0
+The extractor works.
+We might be able to really get somewhere down here.
+
+= _ 4.054513
+
+
+: promesst1_strong
+= gemsman 0
+I feel ... powerful?
+
+= 24.97 2.336236
+
+
+: promesst1_snug
+= gemsman 0
+Snug, like it was made
+just for my own arm.
+What's it do, though?
+
+= _ 4.147392
+
+
+: promesst1_cart
+= gemsman 0
+These carts are still grinding away,
+after a hundred years.
+
+= gemsman 3.357914
+Koltisse Family engineering was quite robust.
+So ... why'd we lose access
+to all the mines then?
+
+= _ 10.105941
+
+
+: promesst1_through_wall
+= gemsman 0
+Good progress, good progress.
+
+= _ 1.732517
+
+
+: promesst1_not_so_hard
+= gemsman 0
+Not so hard, is it?
+
+= _ 1.593197
+
+
+: promesst1_wrap
+= gemsman 0
+Pocket size confirmed.
+On the one hand, it's a manageable size.
+
+= gemsman 4.472472
+On the other hand, the bigger the pocket,
+the more gems I'd expect.
+
+= gemsman 8.526984
+Next question: how deep does this go?
+
+= _ 11.09542
+
+
+: promesst1_destroy_rover
+= gemsman 0
+Shame to destroy these guys,
+but the ends will make the means appropriate.
+We'll learn to build new ones again.
+
+= _ 6.562268
+
+
+: promesst1_egg
+= gemsman 0
+Mottled, polished ... alabaster-like?
+Seems important, but I never heard of this.
+Is this why they fought over the pocket?
+
+= _ 9.255782
+
+
+: promesst1_temple_room
+= gemsman 0
+What is this, some kind of ...
+temple construction?
+In a pocket?
+Who ever heard of that?
+
+= _ 5.726349
+
+
+: promesst1_red_beam_lower
+= gemsman 0
+More temple.
+Ever stranger.
+
+= _ 2.196916
+
+
+: promesst1_exiting_egg_room
+= baby_dragon 0
+Return with the gems.
+Gems bring life!
+
+= gemsman 3.404354
+What? Who said that?
+...
+Uh. I'm letting the depths
+get to me.
+
+= _ 9.316463
+
+
+: promesst1_place_them
+= baby_dragon 0
+Place them.
+Place them!!
+
+= _ 2.661315
+
+
+: promesst1_wand_first_use
+= gemsman 0
+Oh, this is a displacer rod!
+I've never seen one before...
+this thing is priceless.
+
+= _ 6.933787
+
+
+: promesst1_wand_strong
+= gemsman 0
+This thing is so powerful.
+Why'd they leave it buried?
+
+= gemsman 3.125714
+Why'd they seal it in a room
+that's so hard to get to?
+
+= _ 6.158549
+
+
+: promesst1_unlock
+= gemsman 0
+I feel something important just happened,
+but I have no idea what.
+
+= _ 3.543674
+
+
+:: intro_1
+= sokoban 0
+++ Todo: Shorten this a bit.
+Mister Quigley,
+The doorstead has closed
+sooner than expected,
+so I'm on my own for the time being.
+
+= sokoban 7.87
+I trust all is correct on your end,
+and you'll reopen when you can manage.
+Meanwhile, I'm going to look around.
+
+= sokoban 16.13
+I'll leave a trail of beacons,
+should you send someone after,
+
+= sokoban 19.7
+and do my best to leave useful information
+in case of my disappearance or expiry.
+
+= sokoban 26.85
+I'm standing in ... an anteroom.
+The decor is very strange. The stylings
+don't look like any culture I know.
+
+= sokoban 36.44
+So this may indeed be
+a completely other world.
+
+= sokoban 41.78
+Even if I'm wrong, we've certainly managed
+to fling me much further than is possible
+
+= sokoban 46.28
+with a mundane doorstead. So --
+rest assured that I consider my life's work a success,
+regardless of what happens to me going forward.
+
+= sokoban 56.9
+++ (Becoming more outward-focused again with his attention, switching gears).
+These chambers were made for a large gathering,
+but they're empty.
+Still, I feel as though I'm being watched.
+
+= sokoban 66.5
+The surfaces are spotless, no dust.
+Is it actively being cleaned?
+
+= sokoban 74.3
+I'll press forward.
+You'll hear from me again,
+God willing.
+
+= _ 79
+
+
+:: intro_before_teleporter
+= sokoban 0
+Quigley,
+It's very strange.
+
+= sokoban 2.9
+There are plaques with text in an unknown language,
+glyphs that don't look like our writing at all,
+but I just ... know what they mean.
+
+= sokoban 12.44
+This feels completely natural;
+
+= sokoban 14.95
+there's no slightest impression that
+I should not understand these squiggles.
+
+= sokoban 20.5
+The signs make clear that
+they constructed this place for strangers to find,
+
+= sokoban 25
+which explains why these parameters
+made such a big bump in the sounding-outs:
+they are advertising this place.
+
+= sokoban 34.38
+There's something ahead ...
+I don't know where it'll take me.
+
+= sokoban 37.7
+But of course I'm going through.
+Ever onward. Ever forward.
+
+= _ 42.05
+
+
+:: sokoban_overworld
+= sokoban 0
+I've scouted the area quite a bit, and...
+there's a lot happening here, and I don't
+yet understand it all.
+
+= sokoban 6.7
+You'll have to see for yourself.
+
+= sokoban 8.8
+I've found it best to make progress
+in the North and the East.
+Avoid the West until you are ready
+for a serious challenge.
+
+= _ 15.83
+
+
+:: audiolog_g_possession
+= sokoban 0
+++ He is referring to the way in which you take control of other characters, in other worlds, to solve puzzles.
+It's starting to become commonplace,
+but I still don't understand.
+
+= sokoban 4.92
+I feel like I'm making the decisions ...
+but I'm sure they feel they
+are making the decisions.
+
+= sokoban 10.8
+We can't both be right.
+
+= _ 12.7
+
+
+:: audiolog_g_gold_rooms
+= sokoban 0
+Quigley,
+I'm standing on a platform
+sized for five abreast.
+
+= sokoban 4.58
+It's gilded, and engraved
+at such a level of detail
+as to feel just wholly extravagant.
+
+= sokoban 11.7
+Most of the detail resides underfoot.
+Why make nice carvings
+that will abrade with each step?
+
+= sokoban 19.03
+++ (short pause)
+But it has me thinking.
+Many things here are not what they seem.
+
+= sokoban 25.2
+For one who can build
+an overworld such as this,
+
+= sokoban 28.3
+who can reproduce these
+buildings, objects, natural environments
+at such scale and breadth --
+
+= sokoban 34.6
+surely for him, conjuring a little gold
+isn't a problem.
+
+= sokoban 38.5
+Who would consider gold to be precious
+when it is as easy to acquire as dirt?
+
+= sokoban 45.2
+Yet I'm impressed, and maybe that's it:
+to show ignorant visitors
+that these golden areas are special.
+
+= sokoban 55
+++ (short pause)
+I've caught glimpses of several such platforms --
+perhaps there's a pattern to their distribution --
+
+= sokoban 61.4
+but this is the first I have managed to reach,
+and I've yet to touch its central glyph.
+
+= sokoban 68.3
+So I've no idea why it's important,
+but it's time to find out.
+
+= _ 73.5
+
+
+: audiolog_g_gold_and_silver
+= sokoban 0
+I'm past that golden platform,
+and back to making my way
+past silver barriers.
+
+= sokoban 5.30839
+Based on what I've now seen, it does make sense
+that the silver and gold are themselves
+
+= sokoban 10.895419
+a nonverbal message, a way of drawing the attention
+towards certain things.
+
+= sokoban 16.064489
+But I'm not sure why they use the more-precious metal
+for the more-common gateways and object securements,
+
+= sokoban 23.044716
+and the less-precious metal for this big destination
+platform.
+
+= sokoban 27.284988
+Perhaps they mean to indicate that the small incremental
+steps are the most valuable, that they shine like silver
+as we would say;
+
+= sokoban 34.961815
+and the larger waypoints in these incremental journeys,
+whlie also valuable, are somewhat less to be fixated upon,
+thus, gold.
+
+= sokoban 44.356915
+Or -- all right, I realize I am being stupid here.
+If water can behave so differently between worlds,
+
+= sokoban 51.383583
+then surely metals can, as well.
+
+= _ 53.766258
+
+
+:: audiolog_g_musing_on_fast_travel
+= sokoban 0
+Quigley, this way of getting around
+is ... cute. I don't mind it.
+
+= sokoban 6
+Of course I have always been a fan
+of the binary partitioning
+
+= sokoban 9.4
+we use for National Transport
+(confusing as it may be to newcomers);
+
+= sokoban 14.3
+++ "enables travel only along linear routes" is kind of word salad; @Revise.
+but the weakness of our scheme is that it
+enables travel only along linear routes.
+
+= sokoban 19.3
+With the method on display here, travel is
+two-dimensional and free.
+
+= sokoban 24.4
+So. How do these transportation platforms work?
+Could they exist in our world too,
+
+= sokoban 31.4
+or is there something
+about the fabric of this place
+absent in ours?
+
+= sokoban 36.05
+Speaking of which...
+
+= _ 37.61
+
+
+:: audiolog_g_work_and_care
+= sokoban 0
+It obviously requires a great deal
+of work and care
+to arrange all this.
+
+= sokoban 4.8
+To what end is all this done?
+
+= sokoban 8.1
+I face the challenges
+they've put before me,
+
+= sokoban 11
+and I don't do too badly,
+if I may say.
+
+= sokoban 14.2
+Is this a test?
+Do I win recognition if I pass?
+
+= sokoban 19.4
+Is it a kind of training,
+to make me stronger at solving problems?
+
+= sokoban 23.3
+Is it merely a show of great construction,
+like the monuments
+of forgotten civilizations?
+
+= sokoban 29
+They left no direction
+as to my purpose here.
+Why not?
+
+= sokoban 34.3
+I'll continue for clues.
+
+= _ 36.5
+
+
+:: paradise_lost_invocation_2
+= acting 0
+Instruct me, for Thou know'st; Thou from the first
+Wast present, and with mighty wings outspread
+
+= acting 10.1
+Dove-like satst brooding on the vast Abyss
+And mad'st it pregnant:
+
+= acting 18.6
+What in me is dark Illumin,
+what is low raise and support;
+
+= acting 27.3
+That to the highth of this great Argument
+I may assert Eternal Providence,
+And justifie the wayes of God to men.
+
+= _ 38.8
+
+
+:: mirror_new_1_start
+= trader 0
+There it is. The first mirror.
+
+= _ 2.56
+
+
+:: mirror_new_1_end
+= trader 0
+Onward.
+
+= _ 0.53
+
+
+:: mirror_new_2_start
+= trader 0
+++ He fancies himself a bit of a philosopher king, which isn't far from true really. He is composing this mostly-serious poem as a way of collecting his thoughts, understanding what he is thinking deep down, and commemorating the occasion.
+As a boy, I peered ahead
+into the dazzle of my own becoming,
+
+= trader 4.88
+++ Todo: "see"
+squinting to see what lay in wait
+down one pathway or another.
+
+= trader 10.87
+Today I turn back
+and see my choices by their shadows,
+stretched in the long light of the past;
+
+= trader 20.07
+the post-noon sun calls me forward,
+drawing me with warm and lustrous rays.
+
+= trader 28.25
+++ A pause before this last "few hours" part. He's adding this as a coda with a more-flippant attitude, as one might do in Zen. It's a formalized way of not taking one's self too seriously; he has composed many poems with such codas.
+We've a few hours before evening yet,
+or isn't that so!
+
+= _ 32.5
+
+
+:: mirror_new_3_start
+= trader 0
+++ Todo: Too much 'so'.
+Not bad so far. I'd been so worried.
+It was all so formidable in memory.
+
+= anima 6.375
+Decades of buildup.
+
+= trader 8.875
+++ He's referring to the first time he visited the Mirror Isles to do the trial, when very young.
+I was but a child, yet.
+
+= _ 10.5
+
+
+:: mirror_4_start
+= anima 0
+So, you're here to find a specific mirror?
+
+= trader 3.125
+I'm merely looking for a good one,
+in pristine condition.
+
+= trader 6.5
+These early mirrors are scathed, so I'll
+do a few more rounds of the trial,
+
+= trader 12.35
+get further in,
+where doubtless they are fresher.
+
+= anima 13.87
+And then you'll take that mirror?
+
+= trader 16.67
+Take? I'll leave payment in silver
+that is more than fair.
+
+= anima 21.063
+Display it in your flagship emporium?
+
+= trader 24.125
+'Display' sounds so passive.
+I'll be frequently on hand
+to demonstrate, proudly.
+
+= _ 29
+
+
+:: mirror_4_end
+= anima 0
+You think the M'wrights won't come
+to preserve their creation?
+
+= trader 4.5
+They should be already here,
+overseeing my trial.
+Last time, they were very strict.
+
+= trader 9.6
+They must be gone, or dead.
+
+= _ 10.8
+
+
+:: mirror_5_start
+= trader 0
+These mirrors are a bit better,
+but I'll press on
+
+= trader 2.58
+to find one as close to pristine
+as can be managed.
+
+= trader 5.9
+Then, back home.
+
+= _ 7.75
+
+
+:: mirror_5_end
+= trader 0
+I'll go no further than need be.
+Certainly not so far as last time.
+
+= _ 5.1
+
+
+:: mirror_6_start
+= anima 0
+++ (to herself)
+You're a better man
+than you believe.
+
+= anima 3.87
+++ Todo: Actually Anima had a hand in this, so, he didn't totally convince himself. Also the "single mirror" text was written as opposed to "all the mirrors" via knowledge instead of material acquisition, but that thread is no longer currently pursued.
+Convinced yourself
+you came for possession
+of a single mirror --
+
+= anima 10.6
+because deep in,
+you knew it's the only way
+to trick yourself into coming back.
+
+= anima 20.5
+++ Todo "no witness but yourself" is confusing given Anima is obviously witnessing.
+I know you came to soothe your defeat.
+You'll perform the whole trial, just to win,
+no witness but yourself.
+
+= anima 34.375
+And I can use that.
+
+= _ 36.81
+
+
+:: mirror_6_mid
+= anima 0
+Old You would have just
+taken the first mirror
+and sailed off.
+
+= trader 4.5
+Efficient.
+
+= anima 5.89
+Yes, you were.
+Minimize risk of time,
+and so forth.
+
+= trader 12.7
+Today my standards are higher.
+
+= anima 15.43
+++ (she is humoring him)
+As you say.
+
+= _ 16.9
+
+
+:: mirror_6_end
+= anima 0
+++ (to herself)
+I can aim your folly toward my own ends,
+and I love you for that.
+
+= _ 6.69
+
+
+:: mirror_new_7_start
+= trader 0
+++ (Another philosopher king poem, a brief one this time)
+Two decades past, unproven in manhood,
+struggling through my early years of trade,
+my ship drew close but did not land;
+
+= trader 10.3
+I caught a glimpse of my soul
+by the light of a distant mirror,
+by the light of the summer moon.
+
+= _ 16.37
+
+
+:: mirror_7_end
+= anima 0
+We're almost there.
+
+= trader 2.125
+I hadn't thought about it.
+I've no idea what you mean.
+
+= anima 5.875
+We're almost there.
+
+= trader 7.75
+++ (sighing)
+Yes. We're almost to the point.
+
+= _ 11
+
+
+:: mirror_new_last_before_cloning_start
+= anima 0
+This is the place.
+Where you turned and fled.
+
+= anima 5.375
+++ Todo: Why, child,
+Why, little boy, did you run?
+
+= trader 8.875
+I'd a cold foreboding.
+
+= trader 11.25
+That I would be marked deeply,
+no turning back
+if I went a single island further.
+
+= trader 18
+I got away, my self intact.
+
+= anima 21.9
+So it was.
+So it is.
+
+= _ 25.3
+
+
+:: clones_early
+= trader_clone_1 0
+This isn't yet meant to happen.
+
+= trader 2
+And?
+
+= trader_clone_1 3.18
+Don't develop too big a head.
+That's all.
+
+= _ 5.875
+
+
+:: clones_first_confusion
+= trader 0
+I feel light-headed, and light-hearted.
+Might I learn to hold glass to the sun
+til that light is focused, actinic and burning?
+
+= trader_clone_1 10.3
+My course was right already.
+What merchant casts so wide a net?
+My trade carries light
+to many thousands,
+leaving each the brighter.
+
+= trader 20.2
+I could find peace
+in these isles, and beyond.
+
+= trader_clone_1 23.9
+Have you ever met a seeker
+who shone with real success?
+Or are they coaxing you away
+from the warmth already yours?
+
+= _ 30.5
+
+
+:: clones_first_confusion_end
+= anima 0
+Don't struggle.
+Give yourselves to me
+for a time.
+
+= _ 4.9
+
+
+:: clones_triple_confusion
+= trader 0
+I feel watched.
+Perhaps the M'wrights
+have turned their glass upon me.
+I'll give them worth the seeing.
+
+= trader_clone_1 8.8
+You aim too low.
+We leave now,
+
+= trader_clone_1 11.6
+send a flotilla back,
+and take all the mirrors.
+
+= trader_clone_2 15.25
+Hassle, hassle. If it's peace we want,
+let's quit it all.
+
+= trader_clone_2 19.9
+The wife never really wanted me,
+the child is sufficiently raised.
+
+= trader_clone_2 24.2
+Just disappear, be myself.
+A new life.
+
+= _ 28.3
+
+
+:: clones_triple_confusion_end
+= anima 0
+Keep going.
+
+= _ 1.875
+
+
+:: clones_working
+= trader 0
+So hard to see.
+Everything's so blurry now.
+
+= _ 4.56
+
+
+:: clones_working_mid
+= trader_clone_1 0
+++ Dismissively.
+I can see fine.
+No idea what your issue could be.
+
+= trader 3.4
+++ Said judgementally, a bit exhausted.
+So sure of yourself.
+
+= _ 5.1
+
+
+:: clones_working_end
+= trader 0
+We need to focus.
+
+= _ 1.1
+
+
+:: clones_merge
+= trader 0
+We need to focus.
+
+= trader_clone_1 1.3
+I'm not sure I can do this.
+
+= trader 3
+We will get through.
+
+= trader_clone_1 4.4
+I'm not sure I want to get through.
+
+= _ 6.125
+
+
+:: clones_merge_end
+= trader 0
+She made us do this.
+
+= trader_clone_1 1.4
+Shut your mouth.
+
+= _ 2.56
+
+
+:: mirror_after_clones_first
+= anima 0
+Stand whole.
+
+= anima 2.349
+Straight like a mirror's beam,
+bright like the spear of the sun.
+
+= _ 9.3
+
+
+:: mirror_icy_start
+= trader 0
+Tired. I feel heavy again.
+A bit cold.
+
+= anima 4.65
+Yet you retain some of the lightness.
+
+= _ 8
+
+
+:: mirror_icy_second_start
+= trader 0
+These things I saw and felt,
+could have been mine as a boy.
+
+= anima 4.25
+But, you'd be a different you.
+I want you where you are.
+
+= _ 10.6
+
+
+:: mirror_post_clones_b
+= trader 0
+So will I meet the M'wrights now?
+
+= anima 2.7
+In time perhaps. It's not needed today.
+We, they and I,
+prepared everything you need.
+
+= _ 13.4
+
+
+:: mirror_post_clones_b_end
+= anima 0
+The M'wrights are all about --
+avoiding contamination.
+I love them for that.
+
+= _ 7.5
+
+
+:: mirror_post_clones_c
+= trader 0
+Had I gone this far,
+I'd have been better than I am.
+
+= anima 3.6
+Perhaps; perhaps in more ways
+than you'd have been worse.
+
+= anima 9.625
+But you'd not have developed
+many of your current virtues,
+which I enjoy.
+
+= _ 16.5
+
+
+:: mirror_post_clones_c_end
+= anima 0
+Virtues that will avail you henceforth.
+
+= _ 3.75
+
+
+:: mirror_post_clones_d
+= trader 0
+Virtues, like ... skill in money?
+How does that benefit, here?
+
+= anima 4.875
+You weigh bonds that shift as you hold them,
+tend constellations of fickle allegiance.
+Of what use could all that be, I wonder?
+
+= _ 17.75
+
+
+:: mirror_post_clones_f
+= anima 0
+A new idea for you:
+It's possible the M'wrights
+encouraged you to flee.
+
+= trader 7.125
+What are you saying?
+
+= _ 8.3
+
+
+:: mirror_post_clones_f_mid
+= anima 0
+I merely describe a possibility.
+Your fear was real, to be sure.
+It came from you authentic.
+
+= _ 9.125
+
+
+:: mirror_post_clones_f_end
+= anima 0
+++ This kind of rhymes but we don't want to lean in to that. Natural, languid speech.
+But the makers of mirrors
+may have angled the glass,
+produced a longer shadow
+than nature would cast.
+
+= _ 7.5
+
+
+:: mirror_post_clones_g
+= trader 0
+Why? They wanted me to fail
+and become a Trader?
+
+= anima 4.3
+They may, in the fullness of time,
+come forth to recruit you.
+
+= _ 9.8
+
+
+:: mirror_post_clones_g_end
+= anima 0
+I'd let you pretend as one of them,
+for a while.
+
+= anima 4.8
+But ultimately, you are mine.
+
+= _ 7.6
+
+
+:: mirror_factory
+= anima 0
+Do you feel anxious
+about this one?
+
+= trader 3.6
+I'm not so sure.
+At what should I be looking?
+
+= anima 7.125
+Two mirrors. As you know,
+that's often a threat --
+
+= trader 12.125
+++ Interrupting/finishing her sentence.
+A threat to split me. Yes.
+
+= trader 14.8
+I don't mind it, not so much,
+not any more.
+
+= trader 18.78
+++ Todo: I like that we are talking about things that are relevant, but don't really like that we are talking about how to do the puzzle. We should enforce purity about this.
+But I also feel
+it's not quite right today.
+
+= anima 21.625
+Perceptive.
+
+= _ 22.9
+
+
+: mirror_pals_start
+= trader 0
+So you chose to...
+
+= trader_alt 1.688
+I swallowed my fear,
+I pressed on through the trial,
+became an apprentice M'wright.
+
+= _ 7.125
+
+
+: walk_it_over_start
+= trader 0
+Any regrets?
+
+= trader_alt 0.95
+I don't carry around a bunch of gold,
+like you. Might have bigger muscles if I did.
+
+= trader_alt 5.88
+Might be nice if people listened
+when I told them what to do.
+
+= trader 8.765
+So would you take a different path?
+
+= trader_alt 10.58
+Eh? No! Hard to imagine who I'd be
+with an emptier head.
+
+= trader 15.075
+Not emptier...
+
+= trader_alt 16.6
+Yes, that's unfair, and an insult.
+I apologize.
+
+= trader_alt 20.6
+Not empty, just filled with things
+that I, personally, would value less.
+
+= trader_alt 25.4
+And come to say,
+these past few years,
+
+= trader_alt 28.1
+folk have started heeding what I say,
+as my ideas are good --
+they recognize.
+
+= _ 33.7
+
+
+:: mirror_to_gold_1
+= anima 0
+Your path has not been wrong.
+But this is where it turns.
+
+= trader 7
+And now I feel so warm.
+So this is what you want,
+to ever draw me forward?
+
+= trader 13.75
+So far forward
+as to leave behind
+everything I know?
+
+= anima 17.7
+It's not merely what I want.
+It is what will happen.
+
+= _ 23.25
+
+
+:: mirror_to_gold_1_end
+= trader 0
+I have a wife.
+I have a child.
+
+= anima 2.8
+Yes, you do.
+
+= _ 5.18
+
+
+:: mirror_to_gold_2
+= trader 0
+Will I see them again?
+
+= anima 1.7
+If you want.
+
+= anima 3.4
+And if you want,
+If you see them again,
+you'll be a better man.
+For them, and for you.
+
+= _ 13.88
+
+
+:: mirror_to_gold_3
+= trader 0
+Will I see them again?
+
+= anima 1.5
+If you want.
+
+= anima 3.375
+And if you want,
+you'll bring your son
+a gift greater than any
+
+= anima 10.2
+you ever brought back
+from a courtesy voyage.
+
+= _ 13.56
+
+
+:: mirror_to_gold_3_end
+= trader 0
+If I don't want?
+
+= anima 1.5
+Then you won't want.
+
+= _ 3.75
+
+
+:: mirror_to_gold_4
+= anima 0
+It is I who set the M'wrights on their path,
+and I who now send you,
+
+= anima 7.6
+not to them,
+but past them,
+along a path your own.
+
+= _ 14.6
+
+
+:: mirror_to_gold_4_end
+= anima 0
+A path that only you may blaze.
+
+= _ 4.4
+
+
+:: worlds_collide_HM_start
+= trader 0
+Hello in there!
+
+= wizard 1.5
+Hello!
+
+= trader 2.75
+Have you any idea where we are?
+
+= wizard 5
+I was about to ask you the same thing!
+
+= trader 7.75
+It's unusual, but I seem to have
+an unsolvable problem.
+I'm stuck!
+
+= wizard 12.625
+I was about to say the same thing!
+
+= _ 15.375
+
+
+:: intro_queen_am_i_dead
+= queen 0
+Is this ... the afterlife?
+
+= _ 2.75
+
+
+:: intro_queen_callout
+= queen 0
+++ Accent in 'Conroe' is on the 2nd syllable.
+Jackays! Conroe!
+Are you here?
+
+= queen 5.36
+++ Todo: Probably something like "Any loyal soldier! Are you here?" is better than "Any loyalist".
+Any loyalist!
+Are you here?
+
+= _ 8.6
+
+
+:: intro_queen_foreign_script
+= queen 0
+Foreign script,
+but I understand it, somehow.
+
+= _ 4.38
+
+
+:: intro_queen_sign
+= queen 0
+Not too Heavenly, this.
+
+= _ 2
+
+
+:: intro_queen_hosts_1
+= queen 0
+Hosts of this place,
+show yourselves!
+
+= queen 3.554
+Your guest demands it.
+
+= _ 5.76
+
+
+:: intro_queen_hosts_2
+= queen 0
+You who call yourselves
+Sinking Star!
+
+= queen 2.87
+If you want to help me,
+send me back to my men.
+
+= _ 7.05
+
+
+:: intro_queen_teleporter
+= queen 0
+Foreign transport,
+please take me home.
+
+= _ 3.5
+
+
+:: queen_wishlist_1
+= queen 0
+Enter this game into thy book of wants,
+if you please. If you haven't already.
+
+= queen 5.35
+But, of course you have!
+
+= _ 7.6
+
+
+:: queen_wishlist_2
+= queen 0
+Prithee reserve this game
+among thy future acquisitions.
+
+= _ 4.15
+
+
+:: queen_wishlist_3
+= queen 0
+Set this game upon thy list of wishes.
+
+= _ 2.7
+
+
+:: queen_wishlist_4
+= queen 0
+Commend this game, I pray thee,
+unto the Gabegorithm,
+
+= queen 5.6
+that it may be listed
+among the works of note.
+
+= queen 9.8
+The rite is simple:
+set it upon thy wishlist.
+
+= queen 14
+Thou hast my thanks.
+
+= _ 16
+
+
+:: queen_wishlist_5
+= queen 0
+Perchance thou couldst wishlist the game.
+Perchance thou couldst.
+
+= _ 4.5
+
+
+:: hw_first
+= warrior 0
+I can't believe this is
+what water is like
+when it all just ... stays together.
+
+= _ 5.125
+
+
+:: hw_second
+= warrior 0
+So much water, everywhere.
+I wonder what would happen
+if I .. fall in there.
+
+= _ 5.25
+
+
+:: hw_warrior_thief
+= thief 0
+++ (There's no water in their world; now, surrounded by water, Tif has an idea).
+So I'm telling you,
+we bring some gourds
+on a big big cart,
+
+= thief 3.1
+we fill them up with water,
+bring it all back home,
+and we'll be rich.
+
+= warrior 7.25
+Will the water behave the same way
+back home? Or will it -- poof apart?
+
+= warrior 12.125
+++ Todo: I don't want to be next to a cartload of water exploding violently into mist.
+I don't think I want to be around
+a cartload of water if it explodes
+into mist.
+
+= thief 17.125
+Hmmmm.
+
+= _ 18.625
+
+
+:: hw_warrior_thief_end
+= warrior 0
+Why exactly would people even buy this water?
+
+= thief 3.625
+Because ... because it's neat?
+And interesting and different?
+
+= _ 8.25
+
+
+:: hw_two_thieves
+= thief 0
+This is fairly funny.
+
+= thief_alt 1.75
+Don't tell anyone I did this, okay?
+
+= _ 3.75
+
+
+:: hw_two_thieves_mid
+= thief 0
+They wouldn't believe me if I told.
+
+= thief_alt 2.5
+++ Todo: wildness, not craziness?
+Sure they would,
+given all the other craziness.
+
+= _ 5.375
+
+
+:: hw_two_thieves_end
+= thief 0
+Can you tell me what happens later?
+
+= thief_alt 2.125
+What do you want to know?
+
+= _ 3.25
+
+
+:: hw_warrior_goblins
+= warrior 0
+I wonder how the goblins feel about
+all this weird water.
+
+= _ 3.375
+
+
+:: hw_warrior_goblins_end
+= warrior 0
+That answers that question...!
+
+= _ 1.875
+
+
+:: hw_warrior_surrounded
+= warrior 0
+Well, this will be a story to tell my grandkids.
+If I make it out...
+
+= _ 4.5
+
+
+:: hw_warrior_going
+= warrior 0
+Izzy said there's a chance
+the exit was in this direction.
+
+= warrior 3.452
+I'll keep going...
+But perhaps he's having better luck.
+
+= _ 7.75
+
+
+:: hw_warrior_thief_dragons
+= thief 0
+Heyyy, dragon friends!
+
+= warrior 2.625
+Dragon friends?
+
+= thief 4.5
+They remind me of home!
+
+= _ 6
+
+
+: promesst1_audiolog_confrontation
+= archaunt 0
+Foreman! Explain to me,
+how the first pocket we have managed to open
+in FOUR YEARS,
+somehow has old buildings inside?
+
+= archaunt 8.791383
+And you came down here,
+you saw this,
+And you didn't tell me immediately.
+
+= foreman 14.657052
+You're important and busy;
+I felt it best to gather information first.
+Not waste your time.
+
+= archaunt 21.915918
+A re-used pocket,
+no-one's heard of such a thing!
+
+= archaunt 25.227392
+You chose the locus
+by which this pocket was opened,
+
+= archaunt 28.585306
+I must now presume some ulterior motive.
+Whose pocket was this, before, and why?
+
+= foreman 35.147575
+Our fieldmen are currently gathering information --
+
+= archaunt 38.784126
+Yes, yes, naturally.
+As diligence, I must now dispatch
+observers through the rest of the mine
+to see what else you aren't telling us.
+
+= foreman 49.758186
+It's very dangerous down there,
+and even just up here --
+
+= archaunt 53.534058
+Remember that I report directly
+to Grandfather now.
+
+= archaunt 56.938412
+You report to me.
+Any further games and you'll report to nobody.
+
+= siteclerk 62.200363
+Her Archaunt would be advised
+that the Foreman's skills are greatly --
+
+= archaunt 65.836914
+Shut it.
+I don't know what you thought you were doing here,
+but to anyone with half a brain,
+this ... looks ... really bad.
+
+= archaunt 74.163902
+Let's hope you're just trying to get famous or something.
+
+= archaunt 77.150291
+Expect my team in a week from today.
+Unbelievable.
+
+= _ 80.92617
+
+
+: promesst1_audiolog_egg
+= foreman 0
+We don't know what's in it,
+but we've scraped together enough
+from my foster Family's vault,
+
+= foreman 5.772789
+that we know how to open it.
+We need to set up 20 gems --
+
+= siteclerk 10.80254
+Twenty! That's ... going to take some doing.
+Why is it so hard to open?
+
+= foreman 14.903492
+Flecklorica were used to store and protect
+the most valuable of valuables.
+Thicker shell, more valuable.
+
+= foreman 22.766077
+20 gems is good for us;
+what's inside must be truly unique.
+
+= foreman 28.817505
+So start laying out the sockets,
+I'll have some guys hoist
+that special Beam into position.
+
+= siteclerk 35.240452
+Amazed they let you drag that down here.
+
+= foreman 37.43737
+They're bad at inventory,
+and it'll be back before they miss it.
+
+= siteclerk 42.04916
+Beam of Many Colors.
+I've only seen one in my entire life;
+they had a hell of a time managing it.
+
+= siteclerk 47.496872
+The Koltisses can really lose track
+of an incredible rare Beamcaster, that easily?
+
+= foreman 51.922901
+They've done worse. Pure negligence.
+Not unique to them, though.
+Most of the families these days, really.
+
+= foreman 59.646168
+Cept ours and a couple allies
+keeping quiet til we verify
+what's in the lorca.
+
+= _ 65.04744
+
+
+: promesst1_audiolog_really_egg
+= archaunt 0
+Of that book we had some fragments.
+The Pitchlynns had some fragments too,
+and we didn't know til now.
+Put together, the book talks about THIS POCKET SPECIFICALLY,
+that it was found before and INTENTIONALLY REBURIED.
+That thing over there, it's not a Flecklorica.
+
+= foreman 18.172245
+What do you mean? It obviously is.
+
+= archaunt 21.15864
+No, no. It's where lorca came from,
+where we derived the materials and techniques.
+
+= archaunt 26.977869
+It's not a coincidence, the shape!
+The egg shape!
+
+= _ 31.171701
+
+
+:: queen_og_heroes_entry
+= queen 0
+These fortifications look stalwart enough.
+
+= queen 3.18
+Though ...
+I had thought thus about my own walls.
+
+= _ 7.34
+
+
+:: queen_og_heroes2
+= queen 0
+It looks nice here, but
+there's an underlying miasma.
+
+= queen 5.734
+Not unlike the other morning,
+just ere I was forced to flee.
+
+= _ 11.27
+
+
+:: queen_og_wardrobe
+= queen 0
+A choice of outfits?
+
+= _ 2
+
+
+:: queen_og_wardrobe_2
+= queen 0
+The cloth feels smooth
+and well-tailored.
+And I feel like ... a new person.
+
+= _ 8.55
+
+
+:: queen_og_first_lily
+= queen 0
+++ Todo: We have both Queen and Leamington using the word 'cute' and this is probably not good.
+Well, that was a cute ride.
+
+= _ 2.547
+
+
+:: queen_og_mirror_isles
+= queen 0
+Here, the air holds
+a feeling of ... loneliness.
+
+= _ 4.6
+
+
+:: queen_og_gold_room_first
+= queen 0
+Seems like a place
+they want me to notice.
+
+= _ 3.17
+
+

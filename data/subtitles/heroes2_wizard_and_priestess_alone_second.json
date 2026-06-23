@@ -1,0 +1,23 @@
+{
+  "name": "heroes2_wizard_and_priestess_alone_second",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "At times like those I just wonder\nif there's some mind behind the mind,"
+    },
+    {
+      "character": "wizard",
+      "marker": "5.15",
+      "comment": "",
+      "text": "something with goals askew\nto what we think we want,"
+    },
+    {
+      "character": "wizard",
+      "marker": "9.37",
+      "comment": "",
+      "text": "something that creates misadventures\njust to put us where it wants us."
+    }
+  ]
+}

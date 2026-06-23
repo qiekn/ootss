@@ -1,0 +1,35 @@
+{
+  "name": "mirror_new_2_start",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "He fancies himself a bit of a philosopher king, which isn't far from true really. He is composing this mostly-serious poem as a way of collecting his thoughts, understanding what he is thinking deep down, and commemorating the occasion.",
+      "text": "As a boy, I peered ahead\ninto the dazzle of my own becoming,"
+    },
+    {
+      "character": "trader",
+      "marker": "4.88",
+      "comment": "Todo: \"see\"",
+      "text": "squinting to see what lay in wait\ndown one pathway or another."
+    },
+    {
+      "character": "trader",
+      "marker": "10.87",
+      "comment": "",
+      "text": "Today I turn back\nand see my choices by their shadows,\nstretched in the long light of the past;"
+    },
+    {
+      "character": "trader",
+      "marker": "20.07",
+      "comment": "",
+      "text": "the post-noon sun calls me forward,\ndrawing me with warm and lustrous rays."
+    },
+    {
+      "character": "trader",
+      "marker": "28.25",
+      "comment": "A pause before this last \"few hours\" part. He's adding this as a coda with a more-flippant attitude, as one might do in Zen. It's a formalized way of not taking one's self too seriously; he has composed many poems with such codas.",
+      "text": "We've a few hours before evening yet,\nor isn't that so!"
+    }
+  ]
+}

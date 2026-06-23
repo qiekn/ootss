@@ -1,0 +1,11 @@
+{
+  "name": "heroes3_bard_second",
+  "items": [
+    {
+      "character": "bard",
+      "marker": "0",
+      "comment": "",
+      "text": "This used to be a nice place.\nA girl can hardly get around, now."
+    }
+  ]
+}

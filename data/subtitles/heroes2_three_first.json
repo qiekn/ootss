@@ -1,0 +1,29 @@
+{
+  "name": "heroes2_three_first",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "Together again!"
+    },
+    {
+      "character": "thief",
+      "marker": "1.2",
+      "comment": "",
+      "text": "He tried to stop us,\nbut he couldn't!"
+    },
+    {
+      "character": "warrior",
+      "marker": "4.125",
+      "comment": "",
+      "text": "He? You think Reynard\nwas behind the attack on the caravan?"
+    },
+    {
+      "character": "thief",
+      "marker": "7.7",
+      "comment": "Todo: motivation? etc.",
+      "text": "Well, someone had a pretty big reason.\nPerhaps that reason was us."
+    }
+  ]
+}

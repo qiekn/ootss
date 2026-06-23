@@ -1,0 +1,41 @@
+{
+  "name": "worlds_collide_HM_start",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "",
+      "text": "Hello in there!"
+    },
+    {
+      "character": "wizard",
+      "marker": "1.5",
+      "comment": "",
+      "text": "Hello!"
+    },
+    {
+      "character": "trader",
+      "marker": "2.75",
+      "comment": "",
+      "text": "Have you any idea where we are?"
+    },
+    {
+      "character": "wizard",
+      "marker": "5",
+      "comment": "",
+      "text": "I was about to ask you the same thing!"
+    },
+    {
+      "character": "trader",
+      "marker": "7.75",
+      "comment": "",
+      "text": "It's unusual, but I seem to have\nan unsolvable problem.\nI'm stuck!"
+    },
+    {
+      "character": "wizard",
+      "marker": "12.625",
+      "comment": "",
+      "text": "I was about to say the same thing!"
+    }
+  ]
+}

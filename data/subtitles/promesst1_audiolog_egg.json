@@ -1,0 +1,77 @@
+{
+  "name": "promesst1_audiolog_egg",
+  "items": [
+    {
+      "character": "foreman",
+      "marker": "0",
+      "comment": "",
+      "text": "We don't know what's in it,\nbut we've scraped together enough\nfrom my foster Family's vault,"
+    },
+    {
+      "character": "foreman",
+      "marker": "5.772789",
+      "comment": "",
+      "text": "that we know how to open it.\nWe need to set up 20 gems --"
+    },
+    {
+      "character": "siteclerk",
+      "marker": "10.80254",
+      "comment": "",
+      "text": "Twenty! That's ... going to take some doing.\nWhy is it so hard to open?"
+    },
+    {
+      "character": "foreman",
+      "marker": "14.903492",
+      "comment": "",
+      "text": "Flecklorica were used to store and protect\nthe most valuable of valuables.\nThicker shell, more valuable."
+    },
+    {
+      "character": "foreman",
+      "marker": "22.766077",
+      "comment": "",
+      "text": "20 gems is good for us;\nwhat's inside must be truly unique."
+    },
+    {
+      "character": "foreman",
+      "marker": "28.817505",
+      "comment": "",
+      "text": "So start laying out the sockets,\nI'll have some guys hoist\nthat special Beam into position."
+    },
+    {
+      "character": "siteclerk",
+      "marker": "35.240452",
+      "comment": "",
+      "text": "Amazed they let you drag that down here."
+    },
+    {
+      "character": "foreman",
+      "marker": "37.43737",
+      "comment": "",
+      "text": "They're bad at inventory,\nand it'll be back before they miss it."
+    },
+    {
+      "character": "siteclerk",
+      "marker": "42.04916",
+      "comment": "",
+      "text": "Beam of Many Colors.\nI've only seen one in my entire life;\nthey had a hell of a time managing it."
+    },
+    {
+      "character": "siteclerk",
+      "marker": "47.496872",
+      "comment": "",
+      "text": "The Koltisses can really lose track\nof an incredible rare Beamcaster, that easily?"
+    },
+    {
+      "character": "foreman",
+      "marker": "51.922901",
+      "comment": "",
+      "text": "They've done worse. Pure negligence.\nNot unique to them, though.\nMost of the families these days, really."
+    },
+    {
+      "character": "foreman",
+      "marker": "59.646168",
+      "comment": "",
+      "text": "Cept ours and a couple allies\nkeeping quiet til we verify\nwhat's in the lorca."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "heroes_three_for_the_second_time_mandatory",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "He locked us up because you stole his case?"
+    },
+    {
+      "character": "thief",
+      "marker": "3.3",
+      "comment": "(picking up enthusiasm because even though notes are not gold, they have juicy gossip etc)",
+      "text": "Little notes tell you a lot about people, you know?\nReading between the lines."
+    },
+    {
+      "character": "thief",
+      "marker": "8.1",
+      "comment": "",
+      "text": "I wanted to know who this guy really was.\nSo I read them."
+    },
+    {
+      "character": "wizard",
+      "marker": "12.4",
+      "comment": "",
+      "text": "And?"
+    },
+    {
+      "character": "thief",
+      "marker": "13.6",
+      "comment": "",
+      "text": "We should have never taken this job,\nor maybe we should have -- as we did --\nbecause if we didn't,"
+    },
+    {
+      "character": "thief",
+      "marker": "19.12",
+      "comment": "",
+      "text": "we wouldn't know what we know,\nwhich is, we have to stop him."
+    }
+  ]
+}

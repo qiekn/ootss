@@ -1,0 +1,59 @@
+{
+  "name": "audiolog_g_work_and_care",
+  "items": [
+    {
+      "character": "sokoban",
+      "marker": "0",
+      "comment": "",
+      "text": "It obviously requires a great deal\nof work and care\nto arrange all this."
+    },
+    {
+      "character": "sokoban",
+      "marker": "4.8",
+      "comment": "",
+      "text": "To what end is all this done?"
+    },
+    {
+      "character": "sokoban",
+      "marker": "8.1",
+      "comment": "",
+      "text": "I face the challenges\nthey've put before me,"
+    },
+    {
+      "character": "sokoban",
+      "marker": "11",
+      "comment": "",
+      "text": "and I don't do too badly,\nif I may say."
+    },
+    {
+      "character": "sokoban",
+      "marker": "14.2",
+      "comment": "",
+      "text": "Is this a test?\nDo I win recognition if I pass?"
+    },
+    {
+      "character": "sokoban",
+      "marker": "19.4",
+      "comment": "",
+      "text": "Is it a kind of training,\nto make me stronger at solving problems?"
+    },
+    {
+      "character": "sokoban",
+      "marker": "23.3",
+      "comment": "",
+      "text": "Is it merely a show of great construction,\nlike the monuments\nof forgotten civilizations?"
+    },
+    {
+      "character": "sokoban",
+      "marker": "29",
+      "comment": "",
+      "text": "They left no direction\nas to my purpose here.\nWhy not?"
+    },
+    {
+      "character": "sokoban",
+      "marker": "34.3",
+      "comment": "",
+      "text": "I'll continue for clues."
+    }
+  ]
+}

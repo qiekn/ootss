@@ -1,0 +1,35 @@
+{
+  "name": "hw_warrior_thief",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "(There's no water in their world; now, surrounded by water, Tif has an idea).",
+      "text": "So I'm telling you,\nwe bring some gourds\non a big big cart,"
+    },
+    {
+      "character": "thief",
+      "marker": "3.1",
+      "comment": "",
+      "text": "we fill them up with water,\nbring it all back home,\nand we'll be rich."
+    },
+    {
+      "character": "warrior",
+      "marker": "7.25",
+      "comment": "",
+      "text": "Will the water behave the same way\nback home? Or will it -- poof apart?"
+    },
+    {
+      "character": "warrior",
+      "marker": "12.125",
+      "comment": "Todo: I don't want to be next to a cartload of water exploding violently into mist.",
+      "text": "I don't think I want to be around\na cartload of water if it explodes\ninto mist."
+    },
+    {
+      "character": "thief",
+      "marker": "17.125",
+      "comment": "",
+      "text": "Hmmmm."
+    }
+  ]
+}

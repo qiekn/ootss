@@ -1,0 +1,23 @@
+{
+  "name": "heroes2_thief_priestess_second",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "... and that's when we decided\nto finally start the company."
+    },
+    {
+      "character": "thief",
+      "marker": "2.7",
+      "comment": "",
+      "text": "We're all good at moving things\nin our own ways,"
+    },
+    {
+      "character": "thief",
+      "marker": "4.8",
+      "comment": "",
+      "text": "and we'd gained so much experience\nworking at loading docks\nand so forth."
+    }
+  ]
+}

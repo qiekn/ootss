@@ -1,0 +1,17 @@
+{
+  "name": "queen_wishlist_1",
+  "items": [
+    {
+      "character": "queen",
+      "marker": "0",
+      "comment": "",
+      "text": "Enter this game into thy book of wants,\nif you please. If you haven't already."
+    },
+    {
+      "character": "queen",
+      "marker": "5.35",
+      "comment": "",
+      "text": "But, of course you have!"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "intro_queen_foreign_script",
+  "items": [
+    {
+      "character": "queen",
+      "marker": "0",
+      "comment": "",
+      "text": "Foreign script,\nbut I understand it, somehow."
+    }
+  ]
+}

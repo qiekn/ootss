@@ -1,0 +1,29 @@
+{
+  "name": "heroes1_wizard_thief",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "Todo: Need to massage this a bit for the final line to really make sense, since in this first line it's like she knows she is saying it the first time.",
+      "text": "I told him\nwe need to get out of this ...\nechoey lonely place,"
+    },
+    {
+      "character": "thief",
+      "marker": "3.4",
+      "comment": "",
+      "text": "then head\nto the passengers' retrenchment\nfor the Crawler."
+    },
+    {
+      "character": "wizard",
+      "marker": "6.4",
+      "comment": "",
+      "text": "Oh. That's ... where we're going?"
+    },
+    {
+      "character": "thief",
+      "marker": "9.375",
+      "comment": "",
+      "text": "Didn't I say?\nI did now I guess!"
+    }
+  ]
+}

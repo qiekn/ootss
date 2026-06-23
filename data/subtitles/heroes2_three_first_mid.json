@@ -1,0 +1,35 @@
+{
+  "name": "heroes2_three_first_mid",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "I'm surprised you weren't praying\nfor an ambush."
+    },
+    {
+      "character": "wizard",
+      "marker": "2.6",
+      "comment": "",
+      "text": "Up til then, the voyage must have been\npretty awkward."
+    },
+    {
+      "character": "warrior",
+      "marker": "5.43",
+      "comment": "",
+      "text": "Not at all. It's only the higher-ups who\npretend to hate me. The regular guys\non the line, they respect what I did."
+    },
+    {
+      "character": "thief",
+      "marker": "12.5",
+      "comment": "",
+      "text": "Izzy, can't you see how they looked at him?\nThey all wanted to be him,\n... and they were glad not to be him."
+    },
+    {
+      "character": "warrior",
+      "marker": "18.625",
+      "comment": "",
+      "text": "Let's just keep moving."
+    }
+  ]
+}

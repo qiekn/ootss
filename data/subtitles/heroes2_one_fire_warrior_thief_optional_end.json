@@ -1,0 +1,17 @@
+{
+  "name": "heroes2_one_fire_warrior_thief_optional_end",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "See, when we work together,\nyou don't need a club!"
+    },
+    {
+      "character": "warrior",
+      "marker": "3",
+      "comment": "",
+      "text": "Not today at least.\nLet's hope our luck holds."
+    }
+  ]
+}

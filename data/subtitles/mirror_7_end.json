@@ -1,0 +1,29 @@
+{
+  "name": "mirror_7_end",
+  "items": [
+    {
+      "character": "anima",
+      "marker": "0",
+      "comment": "",
+      "text": "We're almost there."
+    },
+    {
+      "character": "trader",
+      "marker": "2.125",
+      "comment": "",
+      "text": "I hadn't thought about it.\nI've no idea what you mean."
+    },
+    {
+      "character": "anima",
+      "marker": "5.875",
+      "comment": "",
+      "text": "We're almost there."
+    },
+    {
+      "character": "trader",
+      "marker": "7.75",
+      "comment": "(sighing)",
+      "text": "Yes. We're almost to the point."
+    }
+  ]
+}

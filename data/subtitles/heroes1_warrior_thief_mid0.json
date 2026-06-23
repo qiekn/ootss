@@ -1,0 +1,17 @@
+{
+  "name": "heroes1_warrior_thief_mid0",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "Even when we find Izzy again,\nthen what? We just leave,\nno harm done?"
+    },
+    {
+      "character": "thief",
+      "marker": "4.37",
+      "comment": "",
+      "text": "I know where that Magistrate's going.\nWe've got to catch up."
+    }
+  ]
+}

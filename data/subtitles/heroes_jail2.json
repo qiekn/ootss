@@ -1,0 +1,53 @@
+{
+  "name": "heroes_jail2",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "You said bars were no hard matter..."
+    },
+    {
+      "character": "thief",
+      "marker": "2.15",
+      "comment": "",
+      "text": "... and tempted Providence!\nNo bars this time!"
+    },
+    {
+      "character": "magistrate",
+      "marker": "5.448",
+      "comment": "",
+      "text": "Indeed, no more bars for you,\nGravy Sorcerer!"
+    },
+    {
+      "character": "wizard",
+      "marker": "9.8",
+      "comment": "He is confused -- he *did* do research on how to keep gravy warm on the table, with MODERATE SUCCESS mind you ... but from the tone he knows this is supposed to be an insult. Flustered about how to reply.",
+      "text": "You -- !"
+    },
+    {
+      "character": "thief",
+      "marker": "11.12",
+      "comment": "",
+      "text": "You!"
+    },
+    {
+      "character": "warrior",
+      "marker": "11.5",
+      "comment": "",
+      "text": "You!"
+    },
+    {
+      "character": "magistrate",
+      "marker": "12.25",
+      "comment": "",
+      "text": "Let us be off, Ratleigh,\nand leave them to ponder their mistakes...\nof which, there are so, SO many."
+    },
+    {
+      "character": "wizard",
+      "marker": "20",
+      "comment": "",
+      "text": "Wait!\nYou still haven't paid us\nfor the appraisal!"
+    }
+  ]
+}

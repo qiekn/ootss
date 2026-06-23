@@ -1,0 +1,17 @@
+{
+  "name": "heroes1_wizard_array",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "(to himself)",
+      "text": "Arrayed like an improvised gallery\nor trophy room."
+    },
+    {
+      "character": "wizard",
+      "marker": "3.8",
+      "comment": "",
+      "text": "A variety of colors --\nHe really likes colors?"
+    }
+  ]
+}

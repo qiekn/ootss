@@ -1,0 +1,17 @@
+{
+  "name": "hw_two_thieves_end",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "Can you tell me what happens later?"
+    },
+    {
+      "character": "thief_alt",
+      "marker": "2.125",
+      "comment": "",
+      "text": "What do you want to know?"
+    }
+  ]
+}

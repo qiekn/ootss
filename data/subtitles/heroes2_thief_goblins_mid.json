@@ -1,0 +1,23 @@
+{
+  "name": "heroes2_thief_goblins_mid",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "(To herself)\nTodo: Make this more natural.",
+      "text": "This is far from my homeland,\nbut I'd been told"
+    },
+    {
+      "character": "thief",
+      "marker": "2.5",
+      "comment": "",
+      "text": "we shouldn't see goblins\nthis close to the city?"
+    },
+    {
+      "character": "thief",
+      "marker": "5.6",
+      "comment": "",
+      "text": "Supposed to be actively hunted\nany time they come within a day's march."
+    }
+  ]
+}

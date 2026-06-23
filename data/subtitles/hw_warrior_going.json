@@ -1,0 +1,17 @@
+{
+  "name": "hw_warrior_going",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "Izzy said there's a chance\nthe exit was in this direction."
+    },
+    {
+      "character": "warrior",
+      "marker": "3.452",
+      "comment": "",
+      "text": "I'll keep going...\nBut perhaps he's having better luck."
+    }
+  ]
+}

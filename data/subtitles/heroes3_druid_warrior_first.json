@@ -1,0 +1,59 @@
+{
+  "name": "heroes3_druid_warrior_first",
+  "items": [
+    {
+      "character": "druid",
+      "marker": "0",
+      "comment": "",
+      "text": "And ever since then,\nunethical use of transmutation\nhas been explicitly prohibited."
+    },
+    {
+      "character": "warrior",
+      "marker": "5.5",
+      "comment": "",
+      "text": "I see."
+    },
+    {
+      "character": "druid",
+      "marker": "6.5",
+      "comment": "",
+      "text": "Or unauthorized use, generally.\nNo publicly-visible use\nexcept in life-or-death situations."
+    },
+    {
+      "character": "warrior",
+      "marker": "12.5",
+      "comment": "",
+      "text": "I see."
+    },
+    {
+      "character": "druid",
+      "marker": "14.125",
+      "comment": "",
+      "text": "There's a scroll called\nThe Constraints on the Sacred Art of Transmutation\n(\"The Constraints\" for short),"
+    },
+    {
+      "character": "druid",
+      "marker": "21.25",
+      "comment": "",
+      "text": "that we all must memorize and swear by,\nand which lays out the restrictions in detail."
+    },
+    {
+      "character": "druid",
+      "marker": "27.206348",
+      "comment": "",
+      "text": "For example, we shall not transmute\na flowering bush or tree in the springtime,"
+    },
+    {
+      "character": "druid",
+      "marker": "31.775",
+      "comment": "",
+      "text": "unless the flowers are blue or violet,\nor the plant also bears fruit\nsmaller than a half thimble in size."
+    },
+    {
+      "character": "warrior",
+      "marker": "38",
+      "comment": "",
+      "text": "Yeah. Plants are so fascinating."
+    }
+  ]
+}

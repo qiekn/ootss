@@ -1,0 +1,29 @@
+{
+  "name": "heroes3_bard_warrior_first_end",
+  "items": [
+    {
+      "character": "bard",
+      "marker": "0",
+      "comment": "",
+      "text": "A girl likes to be manhandled\nonce in a while."
+    },
+    {
+      "character": "bard",
+      "marker": "3.08",
+      "comment": "",
+      "text": "Makes her feel alive."
+    },
+    {
+      "character": "warrior",
+      "marker": "4.45",
+      "comment": "",
+      "text": "Oh my God."
+    },
+    {
+      "character": "bard",
+      "marker": "6.3",
+      "comment": "In a teasing way, not an angry way",
+      "text": "But don't get used to it."
+    }
+  ]
+}

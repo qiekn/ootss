@@ -1,0 +1,17 @@
+{
+  "name": "heroes2_wizard_goblins_mid",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "Don't know why they didn't like\nthe word \"hale\"."
+    },
+    {
+      "character": "wizard",
+      "marker": "2.445",
+      "comment": "",
+      "text": "\"Hale Heroes of Hauling\"\nsounds upscale and smart."
+    }
+  ]
+}

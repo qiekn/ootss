@@ -1,0 +1,17 @@
+{
+  "name": "promesst1_cart",
+  "items": [
+    {
+      "character": "gemsman",
+      "marker": "0",
+      "comment": "",
+      "text": "These carts are still grinding away,\nafter a hundred years."
+    },
+    {
+      "character": "gemsman",
+      "marker": "3.357914",
+      "comment": "",
+      "text": "Koltisse Family engineering was quite robust.\nSo ... why'd we lose access\nto all the mines then?"
+    }
+  ]
+}

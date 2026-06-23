@@ -1,0 +1,47 @@
+{
+  "name": "heroes_jail2_end",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "The Caravan! I bet we'll meet\nall kinds of new friends."
+    },
+    {
+      "character": "wizard",
+      "marker": "3.9",
+      "comment": "",
+      "text": "After being stuck in this place,\nI'll enjoy travelling in luxury..."
+    },
+    {
+      "character": "warrior",
+      "marker": "8.68",
+      "comment": "",
+      "text": "I've heard the food is good.\nThey'll have plenty of gravy for you."
+    },
+    {
+      "character": "wizard",
+      "marker": "12.18",
+      "comment": "Upset, but flustered enough he has no idea what to say.",
+      "text": "Don't you -- !"
+    },
+    {
+      "character": "thief",
+      "marker": "13.18",
+      "comment": "",
+      "text": "Save the arguing for the King!\nOr the ... Lord Chamberlain,\nor whoever we can get to!"
+    },
+    {
+      "character": "warrior",
+      "marker": "19.1",
+      "comment": "",
+      "text": "Agreed. Let's go."
+    },
+    {
+      "character": "wizard",
+      "marker": "20.85",
+      "comment": "",
+      "text": "Let's go."
+    }
+  ]
+}

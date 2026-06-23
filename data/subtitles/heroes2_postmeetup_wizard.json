@@ -1,0 +1,47 @@
+{
+  "name": "heroes2_postmeetup_wizard",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "Todo: Maybe this whole sequence is really not cute at all because this is how all private guards are in the USA anyway, so it's just, like, documenting reality.",
+      "text": "Had I known that starting a moving company\nwould lead me into the East,"
+    },
+    {
+      "character": "wizard",
+      "marker": "3.38",
+      "comment": "",
+      "text": "surrounded by foul creatures,\nnary a book brought with me,"
+    },
+    {
+      "character": "wizard",
+      "marker": "7",
+      "comment": "",
+      "text": "I'd have started some company\nabout being sedentary, instead."
+    },
+    {
+      "character": "wizard",
+      "marker": "11.8",
+      "comment": "",
+      "text": "Like ... Guards. But, guards\nthat never have any trouble."
+    },
+    {
+      "character": "wizard",
+      "marker": "17.3",
+      "comment": "",
+      "text": "Casual guards,\nfor buildings where nobody goes,"
+    },
+    {
+      "character": "wizard",
+      "marker": "21.8",
+      "comment": "",
+      "text": "small, no walking,\nwe just sit there."
+    },
+    {
+      "character": "wizard",
+      "marker": "25.7",
+      "comment": "",
+      "text": "Warming our feet\nby the fire."
+    }
+  ]
+}

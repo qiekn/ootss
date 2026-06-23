@@ -1,0 +1,17 @@
+{
+  "name": "mirror_post_clones_f",
+  "items": [
+    {
+      "character": "anima",
+      "marker": "0",
+      "comment": "",
+      "text": "A new idea for you:\nIt's possible the M'wrights\nencouraged you to flee."
+    },
+    {
+      "character": "trader",
+      "marker": "7.125",
+      "comment": "",
+      "text": "What are you saying?"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "mirror_4_end",
+  "items": [
+    {
+      "character": "anima",
+      "marker": "0",
+      "comment": "",
+      "text": "You think the M'wrights won't come\nto preserve their creation?"
+    },
+    {
+      "character": "trader",
+      "marker": "4.5",
+      "comment": "",
+      "text": "They should be already here,\noverseeing my trial.\nLast time, they were very strict."
+    },
+    {
+      "character": "trader",
+      "marker": "9.6",
+      "comment": "",
+      "text": "They must be gone, or dead."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "heroes3_wizard_druid_second",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "How long has your guild practiced transmutation?"
+    },
+    {
+      "character": "druid",
+      "marker": "2.875",
+      "comment": "",
+      "text": "Tales of our origin are forgotten.\nFour hundred years at least."
+    },
+    {
+      "character": "wizard",
+      "marker": "7",
+      "comment": "Todo: That's a while...",
+      "text": "Pretty good! Pretty ...\nthat's a long time."
+    }
+  ]
+}

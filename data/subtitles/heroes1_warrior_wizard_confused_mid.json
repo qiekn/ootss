@@ -1,0 +1,23 @@
+{
+  "name": "heroes1_warrior_wizard_confused_mid",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "When he had his guards seize us...\nTif didn't seem surprised."
+    },
+    {
+      "character": "wizard",
+      "marker": "4.87",
+      "comment": "",
+      "text": "Come to think ... did she look a bit\nsheepish to you?"
+    },
+    {
+      "character": "warrior",
+      "marker": "8.25",
+      "comment": "",
+      "text": "More than sheepish.\nGuilty-ish."
+    }
+  ]
+}

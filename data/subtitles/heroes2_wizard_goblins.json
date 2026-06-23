@@ -1,0 +1,17 @@
+{
+  "name": "heroes2_wizard_goblins",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "I'd have thought the caravan's defenses\nwould hold for longer,"
+    },
+    {
+      "character": "wizard",
+      "marker": "2.75",
+      "comment": "",
+      "text": "but I'm glad to still be alive,\nhale body, hale mind."
+    }
+  ]
+}

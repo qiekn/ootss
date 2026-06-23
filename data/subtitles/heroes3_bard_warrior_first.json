@@ -1,0 +1,17 @@
+{
+  "name": "heroes3_bard_warrior_first",
+  "items": [
+    {
+      "character": "bard",
+      "marker": "0",
+      "comment": "",
+      "text": "Hey fellow traveler,\nmind helping me out?"
+    },
+    {
+      "character": "warrior",
+      "marker": "2.875",
+      "comment": "",
+      "text": "I ... uh ... yes,\nyes of course!"
+    }
+  ]
+}

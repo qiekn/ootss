@@ -1,0 +1,47 @@
+{
+  "name": "heroes_jail2_mid",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "He's high-enough ranked,\nhe can command the Crawler to depart."
+    },
+    {
+      "character": "wizard",
+      "marker": "4",
+      "comment": "",
+      "text": "We're not likely to catch him."
+    },
+    {
+      "character": "warrior",
+      "marker": "5.75",
+      "comment": "",
+      "text": "There's another way across the Badlands."
+    },
+    {
+      "character": "wizard",
+      "marker": "8.1",
+      "comment": "",
+      "text": "Oh ... hmm?"
+    },
+    {
+      "character": "thief",
+      "marker": "10.5",
+      "comment": "",
+      "text": "The Caravan,\nthe Royal Caravan?"
+    },
+    {
+      "character": "thief",
+      "marker": "13",
+      "comment": "",
+      "text": "Valens, can you get us in with them?"
+    },
+    {
+      "character": "wizard",
+      "marker": "15.4",
+      "comment": "",
+      "text": "Even if ...\nfirst day of the season\nisn't for two weeks yet."
+    }
+  ]
+}

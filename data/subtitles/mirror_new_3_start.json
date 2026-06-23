@@ -1,0 +1,23 @@
+{
+  "name": "mirror_new_3_start",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "Todo: Too much 'so'.",
+      "text": "Not bad so far. I'd been so worried.\nIt was all so formidable in memory."
+    },
+    {
+      "character": "anima",
+      "marker": "6.375",
+      "comment": "",
+      "text": "Decades of buildup."
+    },
+    {
+      "character": "trader",
+      "marker": "8.875",
+      "comment": "He's referring to the first time he visited the Mirror Isles to do the trial, when very young.",
+      "text": "I was but a child, yet."
+    }
+  ]
+}

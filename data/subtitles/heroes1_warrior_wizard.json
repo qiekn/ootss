@@ -1,0 +1,41 @@
+{
+  "name": "heroes1_warrior_wizard",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "Valens! Finally!"
+    },
+    {
+      "character": "warrior",
+      "marker": "2.9",
+      "comment": "",
+      "text": "Hey Izzy..."
+    },
+    {
+      "character": "wizard",
+      "marker": "4",
+      "comment": "",
+      "text": "I am glad you came along,\nit seems I can't get out my way."
+    },
+    {
+      "character": "warrior",
+      "marker": "9.9",
+      "comment": "",
+      "text": "I can't get out my way either."
+    },
+    {
+      "character": "wizard",
+      "marker": "11.9",
+      "comment": "",
+      "text": "We'll figure it out."
+    },
+    {
+      "character": "warrior",
+      "marker": "13.3",
+      "comment": "",
+      "text": "We always do!"
+    }
+  ]
+}

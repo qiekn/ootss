@@ -1,0 +1,53 @@
+{
+  "name": "audiolog_g_musing_on_fast_travel",
+  "items": [
+    {
+      "character": "sokoban",
+      "marker": "0",
+      "comment": "",
+      "text": "Quigley, this way of getting around\nis ... cute. I don't mind it."
+    },
+    {
+      "character": "sokoban",
+      "marker": "6",
+      "comment": "",
+      "text": "Of course I have always been a fan\nof the binary partitioning"
+    },
+    {
+      "character": "sokoban",
+      "marker": "9.4",
+      "comment": "",
+      "text": "we use for National Transport\n(confusing as it may be to newcomers);"
+    },
+    {
+      "character": "sokoban",
+      "marker": "14.3",
+      "comment": "\"enables travel only along linear routes\" is kind of word salad; @Revise.",
+      "text": "but the weakness of our scheme is that it\nenables travel only along linear routes."
+    },
+    {
+      "character": "sokoban",
+      "marker": "19.3",
+      "comment": "",
+      "text": "With the method on display here, travel is\ntwo-dimensional and free."
+    },
+    {
+      "character": "sokoban",
+      "marker": "24.4",
+      "comment": "",
+      "text": "So. How do these transportation platforms work?\nCould they exist in our world too,"
+    },
+    {
+      "character": "sokoban",
+      "marker": "31.4",
+      "comment": "",
+      "text": "or is there something\nabout the fabric of this place\nabsent in ours?"
+    },
+    {
+      "character": "sokoban",
+      "marker": "36.05",
+      "comment": "",
+      "text": "Speaking of which..."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "warrior_heroes1_call",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "This place is so huge.\nHow am I going to find\nthe others?"
+    },
+    {
+      "character": "warrior",
+      "marker": "5.5",
+      "comment": "",
+      "text": "Tif! Isidore!"
+    },
+    {
+      "character": "warrior",
+      "marker": "9.77",
+      "comment": "",
+      "text": "Seems I'm on my own for now.\nLet's go."
+    }
+  ]
+}

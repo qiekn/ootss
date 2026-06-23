@@ -1,0 +1,29 @@
+{
+  "name": "mirror_to_gold_1",
+  "items": [
+    {
+      "character": "anima",
+      "marker": "0",
+      "comment": "",
+      "text": "Your path has not been wrong.\nBut this is where it turns."
+    },
+    {
+      "character": "trader",
+      "marker": "7",
+      "comment": "",
+      "text": "And now I feel so warm.\nSo this is what you want,\nto ever draw me forward?"
+    },
+    {
+      "character": "trader",
+      "marker": "13.75",
+      "comment": "",
+      "text": "So far forward\nas to leave behind\neverything I know?"
+    },
+    {
+      "character": "anima",
+      "marker": "17.7",
+      "comment": "",
+      "text": "It's not merely what I want.\nIt is what will happen."
+    }
+  ]
+}

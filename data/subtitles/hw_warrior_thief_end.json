@@ -1,0 +1,17 @@
+{
+  "name": "hw_warrior_thief_end",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "Why exactly would people even buy this water?"
+    },
+    {
+      "character": "thief",
+      "marker": "3.625",
+      "comment": "",
+      "text": "Because ... because it's neat?\nAnd interesting and different?"
+    }
+  ]
+}

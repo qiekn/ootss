@@ -1,0 +1,17 @@
+{
+  "name": "intro_queen_callout",
+  "items": [
+    {
+      "character": "queen",
+      "marker": "0",
+      "comment": "Accent in 'Conroe' is on the 2nd syllable.",
+      "text": "Jackays! Conroe!\nAre you here?"
+    },
+    {
+      "character": "queen",
+      "marker": "5.36",
+      "comment": "Todo: Probably something like \"Any loyal soldier! Are you here?\" is better than \"Any loyalist\".",
+      "text": "Any loyalist!\nAre you here?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "heroes_warrior_mistrust",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "Magistrate Reynard felt slimy to me\nfrom the beginning."
+    },
+    {
+      "character": "warrior",
+      "marker": "3.7",
+      "comment": "",
+      "text": "I should have said something,\nbut we needed the job."
+    }
+  ]
+}

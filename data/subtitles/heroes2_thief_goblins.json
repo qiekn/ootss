@@ -1,0 +1,17 @@
+{
+  "name": "heroes2_thief_goblins",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "Hello there, pals!"
+    },
+    {
+      "character": "thief",
+      "marker": "1.4",
+      "comment": "",
+      "text": "We can just be nice to each other,\nif you want..."
+    }
+  ]
+}

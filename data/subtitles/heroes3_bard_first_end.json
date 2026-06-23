@@ -1,0 +1,11 @@
+{
+  "name": "heroes3_bard_first_end",
+  "items": [
+    {
+      "character": "bard",
+      "marker": "0",
+      "comment": "",
+      "text": "Goblins aren't known for travel.\nI wonder what brought them here."
+    }
+  ]
+}

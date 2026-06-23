@@ -1,0 +1,11 @@
+{
+  "name": "heroes_warrior_gate_end",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "Todo: Probably he doesn't know or care enough about how they work to think this. So we want a different kind of early leading clue thought here.",
+      "text": "So much energy needed\nto keep these gates going ...\nwhy, in such an empty place?"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "promesst1_wrap",
+  "items": [
+    {
+      "character": "gemsman",
+      "marker": "0",
+      "comment": "",
+      "text": "Pocket size confirmed.\nOn the one hand, it's a manageable size."
+    },
+    {
+      "character": "gemsman",
+      "marker": "4.472472",
+      "comment": "",
+      "text": "On the other hand, the bigger the pocket,\nthe more gems I'd expect."
+    },
+    {
+      "character": "gemsman",
+      "marker": "8.526984",
+      "comment": "",
+      "text": "Next question: how deep does this go?"
+    }
+  ]
+}

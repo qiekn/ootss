@@ -1,0 +1,95 @@
+{
+  "name": "promesst1_audiolog_confrontation",
+  "items": [
+    {
+      "character": "archaunt",
+      "marker": "0",
+      "comment": "",
+      "text": "Foreman! Explain to me,\nhow the first pocket we have managed to open\nin FOUR YEARS,\nsomehow has old buildings inside?"
+    },
+    {
+      "character": "archaunt",
+      "marker": "8.791383",
+      "comment": "",
+      "text": "And you came down here,\nyou saw this,\nAnd you didn't tell me immediately."
+    },
+    {
+      "character": "foreman",
+      "marker": "14.657052",
+      "comment": "",
+      "text": "You're important and busy;\nI felt it best to gather information first.\nNot waste your time."
+    },
+    {
+      "character": "archaunt",
+      "marker": "21.915918",
+      "comment": "",
+      "text": "A re-used pocket,\nno-one's heard of such a thing!"
+    },
+    {
+      "character": "archaunt",
+      "marker": "25.227392",
+      "comment": "",
+      "text": "You chose the locus\nby which this pocket was opened,"
+    },
+    {
+      "character": "archaunt",
+      "marker": "28.585306",
+      "comment": "",
+      "text": "I must now presume some ulterior motive.\nWhose pocket was this, before, and why?"
+    },
+    {
+      "character": "foreman",
+      "marker": "35.147575",
+      "comment": "",
+      "text": "Our fieldmen are currently gathering information --"
+    },
+    {
+      "character": "archaunt",
+      "marker": "38.784126",
+      "comment": "",
+      "text": "Yes, yes, naturally.\nAs diligence, I must now dispatch\nobservers through the rest of the mine\nto see what else you aren't telling us."
+    },
+    {
+      "character": "foreman",
+      "marker": "49.758186",
+      "comment": "",
+      "text": "It's very dangerous down there,\nand even just up here --"
+    },
+    {
+      "character": "archaunt",
+      "marker": "53.534058",
+      "comment": "",
+      "text": "Remember that I report directly\nto Grandfather now."
+    },
+    {
+      "character": "archaunt",
+      "marker": "56.938412",
+      "comment": "",
+      "text": "You report to me.\nAny further games and you'll report to nobody."
+    },
+    {
+      "character": "siteclerk",
+      "marker": "62.200363",
+      "comment": "",
+      "text": "Her Archaunt would be advised\nthat the Foreman's skills are greatly --"
+    },
+    {
+      "character": "archaunt",
+      "marker": "65.836914",
+      "comment": "",
+      "text": "Shut it.\nI don't know what you thought you were doing here,\nbut to anyone with half a brain,\nthis ... looks ... really bad."
+    },
+    {
+      "character": "archaunt",
+      "marker": "74.163902",
+      "comment": "",
+      "text": "Let's hope you're just trying to get famous or something."
+    },
+    {
+      "character": "archaunt",
+      "marker": "77.150291",
+      "comment": "",
+      "text": "Expect my team in a week from today.\nUnbelievable."
+    }
+  ]
+}

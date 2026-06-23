@@ -1,0 +1,23 @@
+{
+  "name": "clones_early",
+  "items": [
+    {
+      "character": "trader_clone_1",
+      "marker": "0",
+      "comment": "",
+      "text": "This isn't yet meant to happen."
+    },
+    {
+      "character": "trader",
+      "marker": "2",
+      "comment": "",
+      "text": "And?"
+    },
+    {
+      "character": "trader_clone_1",
+      "marker": "3.18",
+      "comment": "",
+      "text": "Don't develop too big a head.\nThat's all."
+    }
+  ]
+}

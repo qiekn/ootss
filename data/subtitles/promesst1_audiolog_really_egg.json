@@ -1,0 +1,29 @@
+{
+  "name": "promesst1_audiolog_really_egg",
+  "items": [
+    {
+      "character": "archaunt",
+      "marker": "0",
+      "comment": "",
+      "text": "Of that book we had some fragments.\nThe Pitchlynns had some fragments too,\nand we didn't know til now.\nPut together, the book talks about THIS POCKET SPECIFICALLY,\nthat it was found before and INTENTIONALLY REBURIED.\nThat thing over there, it's not a Flecklorica."
+    },
+    {
+      "character": "foreman",
+      "marker": "18.172245",
+      "comment": "",
+      "text": "What do you mean? It obviously is."
+    },
+    {
+      "character": "archaunt",
+      "marker": "21.15864",
+      "comment": "",
+      "text": "No, no. It's where lorca came from,\nwhere we derived the materials and techniques."
+    },
+    {
+      "character": "archaunt",
+      "marker": "26.977869",
+      "comment": "",
+      "text": "It's not a coincidence, the shape!\nThe egg shape!"
+    }
+  ]
+}

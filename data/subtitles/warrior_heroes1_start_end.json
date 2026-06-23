@@ -1,0 +1,17 @@
+{
+  "name": "warrior_heroes1_start_end",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "When we catch this guy,\nI'm going to give him\na big piece of my mind."
+    },
+    {
+      "character": "warrior",
+      "marker": "3.8",
+      "comment": "",
+      "text": "Wish I could punch him. Hard."
+    }
+  ]
+}

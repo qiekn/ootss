@@ -1,0 +1,35 @@
+{
+  "name": "heroes1_warrior_thief_end",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "(Echoing the refrain from heroes1_warrior_wizard_end)",
+      "text": "Let's go get that stupid magistrate!"
+    },
+    {
+      "character": "thief",
+      "marker": "2.8",
+      "comment": "(Starting to echo this, but stopping)",
+      "text": "Let's go get that ...\nI mean,\nhe's not stupid though!"
+    },
+    {
+      "character": "warrior",
+      "marker": "6",
+      "comment": "",
+      "text": "I mean we don't like him!"
+    },
+    {
+      "character": "thief",
+      "marker": "7.3",
+      "comment": "",
+      "text": "Everyone has redeeming qualities though!"
+    },
+    {
+      "character": "warrior",
+      "marker": "9.4",
+      "comment": "",
+      "text": "Oh my God."
+    }
+  ]
+}

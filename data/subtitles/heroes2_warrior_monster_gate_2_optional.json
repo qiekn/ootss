@@ -1,0 +1,11 @@
+{
+  "name": "heroes2_warrior_monster_gate_2_optional",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "At least these are just crystallized plants."
+    }
+  ]
+}

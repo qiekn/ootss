@@ -1,0 +1,23 @@
+{
+  "name": "hw_warrior_thief_dragons",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "Heyyy, dragon friends!"
+    },
+    {
+      "character": "warrior",
+      "marker": "2.625",
+      "comment": "",
+      "text": "Dragon friends?"
+    },
+    {
+      "character": "thief",
+      "marker": "4.5",
+      "comment": "",
+      "text": "They remind me of home!"
+    }
+  ]
+}

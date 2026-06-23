@@ -1,0 +1,17 @@
+{
+  "name": "heroes_three_for_the_first_time_optional_end",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "(Having a realization and a leap of deduction)",
+      "text": "So Tif,\nHe locked us up ...\nbecause of you?"
+    },
+    {
+      "character": "thief",
+      "marker": "5.25",
+      "comment": "",
+      "text": "It's a bit like that."
+    }
+  ]
+}

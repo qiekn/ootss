@@ -1,0 +1,35 @@
+{
+  "name": "heroes3_druid_thief_first",
+  "items": [
+    {
+      "character": "druid",
+      "marker": "0",
+      "comment": "",
+      "text": "Hail there!\nYou look to be from the West."
+    },
+    {
+      "character": "thief",
+      "marker": "2.25",
+      "comment": "",
+      "text": "Indeed I am, friend!"
+    },
+    {
+      "character": "druid",
+      "marker": "4",
+      "comment": "",
+      "text": "I was headed to the West Country,\nbut my plans were just interrupted."
+    },
+    {
+      "character": "thief",
+      "marker": "7.5",
+      "comment": "",
+      "text": "Pleasure or Business?"
+    },
+    {
+      "character": "druid",
+      "marker": "9.625",
+      "comment": "",
+      "text": "No pleasure involved.\nJust looking for someone."
+    }
+  ]
+}

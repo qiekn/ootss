@@ -1,0 +1,17 @@
+{
+  "name": "mirror_icy_start",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "",
+      "text": "Tired. I feel heavy again.\nA bit cold."
+    },
+    {
+      "character": "anima",
+      "marker": "4.65",
+      "comment": "",
+      "text": "Yet you retain some of the lightness."
+    }
+  ]
+}

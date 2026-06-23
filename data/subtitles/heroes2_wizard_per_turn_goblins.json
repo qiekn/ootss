@@ -1,0 +1,47 @@
+{
+  "name": "heroes2_wizard_per_turn_goblins",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "Let's think about this."
+    },
+    {
+      "character": "wizard",
+      "marker": "1.55",
+      "comment": "",
+      "text": "Magistrate Reynard flees to the East,\nand about the time he gets here,\nit's overrun by monsters."
+    },
+    {
+      "character": "wizard",
+      "marker": "8.89",
+      "comment": "Todo: jump discontinuously to that.",
+      "text": "Possibility the First: It's a coincidence.\nPerhaps, but let's not jump to that."
+    },
+    {
+      "character": "wizard",
+      "marker": "15.85",
+      "comment": "",
+      "text": "Possibility the Second: He caused this\nin some way. For what reason?"
+    },
+    {
+      "character": "wizard",
+      "marker": "22.7",
+      "comment": "",
+      "text": "To slow us down?\nThat's a lot of chaos just for us."
+    },
+    {
+      "character": "wizard",
+      "marker": "28.58",
+      "comment": "",
+      "text": "Possibility the Third: He came East\nbecause this was about to happen,"
+    },
+    {
+      "character": "wizard",
+      "marker": "35.5",
+      "comment": "",
+      "text": "and he knew. And he wants to stop it?\nOr take advantage in some way?"
+    }
+  ]
+}

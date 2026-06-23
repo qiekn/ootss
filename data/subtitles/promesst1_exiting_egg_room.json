@@ -1,0 +1,17 @@
+{
+  "name": "promesst1_exiting_egg_room",
+  "items": [
+    {
+      "character": "baby_dragon",
+      "marker": "0",
+      "comment": "",
+      "text": "Return with the gems.\nGems bring life!"
+    },
+    {
+      "character": "gemsman",
+      "marker": "3.404354",
+      "comment": "",
+      "text": "What? Who said that?\n...\nUh. I'm letting the depths\nget to me."
+    }
+  ]
+}

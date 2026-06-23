@@ -1,0 +1,17 @@
+{
+  "name": "heroes2_wizard_and_priestess_alone_third_end",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "So it was an accident,\nbut many a fool would love to do\nwhat I can do."
+    },
+    {
+      "character": "wizard",
+      "marker": "6.25",
+      "comment": "",
+      "text": "So maybe it was on purpose?\nMaybe I wrecked my life intentionally,\na mind askew my mind?"
+    }
+  ]
+}

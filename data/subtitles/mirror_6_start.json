@@ -1,0 +1,35 @@
+{
+  "name": "mirror_6_start",
+  "items": [
+    {
+      "character": "anima",
+      "marker": "0",
+      "comment": "(to herself)",
+      "text": "You're a better man\nthan you believe."
+    },
+    {
+      "character": "anima",
+      "marker": "3.87",
+      "comment": "Todo: Actually Anima had a hand in this, so, he didn't totally convince himself. Also the \"single mirror\" text was written as opposed to \"all the mirrors\" via knowledge instead of material acquisition, but that thread is no longer currently pursued.",
+      "text": "Convinced yourself\nyou came for possession\nof a single mirror --"
+    },
+    {
+      "character": "anima",
+      "marker": "10.6",
+      "comment": "",
+      "text": "because deep in,\nyou knew it's the only way\nto trick yourself into coming back."
+    },
+    {
+      "character": "anima",
+      "marker": "20.5",
+      "comment": "Todo \"no witness but yourself\" is confusing given Anima is obviously witnessing.",
+      "text": "I know you came to soothe your defeat.\nYou'll perform the whole trial, just to win,\nno witness but yourself."
+    },
+    {
+      "character": "anima",
+      "marker": "34.375",
+      "comment": "",
+      "text": "And I can use that."
+    }
+  ]
+}

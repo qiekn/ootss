@@ -1,0 +1,65 @@
+{
+  "name": "heroes2_wizard_and_priestess_alone_first",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "Have you ever just clumsily dropped something?\nYou had an easy grip, everything is normal and fine,"
+    },
+    {
+      "character": "wizard",
+      "marker": "7.17",
+      "comment": "",
+      "text": "you were just turning to put some powders\ninto a tincture --"
+    },
+    {
+      "character": "wizard",
+      "marker": "11.2",
+      "comment": "",
+      "text": "the tray clatters to the floor."
+    },
+    {
+      "character": "wizard",
+      "marker": "14.125",
+      "comment": "",
+      "text": "Oh, it'll take hours to re-grind those powders."
+    },
+    {
+      "character": "wizard",
+      "marker": "17.535",
+      "comment": "",
+      "text": "How hard was it just to keep my fingers clasped?\nDid they open due to some kind of internal sedition?"
+    },
+    {
+      "character": "wizard",
+      "marker": "26.566",
+      "comment": "Todo: Some more explanation here; *want* to make a mess why? To avoid an appointment, to not take the medicine I know I'm supposed to take?",
+      "text": "Did some part of me want to make a mess?"
+    },
+    {
+      "character": "wizard",
+      "marker": "30.6",
+      "comment": "",
+      "text": "Or, have you ever -- the candles flickering suggestively,\nthe warmth of the air just so --"
+    },
+    {
+      "character": "wizard",
+      "marker": "39",
+      "comment": "Todo: the sheen of her hairy, hairy legs",
+      "text": "Well you didn't have to use the word \"donkey\",\neven if the sheen of the hair on her legs --"
+    },
+    {
+      "character": "wizard",
+      "marker": "45.7",
+      "comment": "",
+      "text": "in a nice way I mean --"
+    },
+    {
+      "character": "wizard",
+      "marker": "48",
+      "comment": "",
+      "text": "it was like dropping the reagents, just like that."
+    }
+  ]
+}

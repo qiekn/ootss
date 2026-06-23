@@ -1,0 +1,17 @@
+{
+  "name": "heroes_three_for_the_second_time_mandatory_end",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "Stop him, from what?"
+    },
+    {
+      "character": "thief",
+      "marker": "1.3",
+      "comment": "",
+      "text": "We need to talk about these crystals."
+    }
+  ]
+}

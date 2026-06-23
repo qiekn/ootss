@@ -1,0 +1,17 @@
+{
+  "name": "intro_queen_hosts_1",
+  "items": [
+    {
+      "character": "queen",
+      "marker": "0",
+      "comment": "",
+      "text": "Hosts of this place,\nshow yourselves!"
+    },
+    {
+      "character": "queen",
+      "marker": "3.554",
+      "comment": "",
+      "text": "Your guest demands it."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "heroes2_warrior_priestess_first",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "I'm so happy to have some help.\nOnce-a-time I would have\nslain these goblins easily,"
+    },
+    {
+      "character": "warrior",
+      "marker": "5.5",
+      "comment": "",
+      "text": "but I can't now.\nRestrictions."
+    }
+  ]
+}

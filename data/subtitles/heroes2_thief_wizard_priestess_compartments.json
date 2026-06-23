@@ -1,0 +1,23 @@
+{
+  "name": "heroes2_thief_wizard_priestess_compartments",
+  "items": [
+    {
+      "character": "magistrate",
+      "marker": "0",
+      "comment": "",
+      "text": "Observe, Ratleigh,\nhow the complexities of this mechanism\nslow them"
+    },
+    {
+      "character": "magistrate",
+      "marker": "4.890431",
+      "comment": "",
+      "text": "while we bait the final trap.\nLet us be off."
+    },
+    {
+      "character": "all_heroes",
+      "marker": "7.2",
+      "comment": "",
+      "text": "You!"
+    }
+  ]
+}

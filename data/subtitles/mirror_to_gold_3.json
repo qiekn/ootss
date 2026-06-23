@@ -1,0 +1,29 @@
+{
+  "name": "mirror_to_gold_3",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "",
+      "text": "Will I see them again?"
+    },
+    {
+      "character": "anima",
+      "marker": "1.5",
+      "comment": "",
+      "text": "If you want."
+    },
+    {
+      "character": "anima",
+      "marker": "3.375",
+      "comment": "",
+      "text": "And if you want,\nyou'll bring your son\na gift greater than any"
+    },
+    {
+      "character": "anima",
+      "marker": "10.2",
+      "comment": "",
+      "text": "you ever brought back\nfrom a courtesy voyage."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "heroes2_thief_priestess_second_mid_warrior",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "Valens is incredibly strong.\nHe said it's a trick,\nbut the details are hard to talk about."
+    },
+    {
+      "character": "thief",
+      "marker": "5.75",
+      "comment": "",
+      "text": "Said he was taught by an older man,\nanother soldier."
+    },
+    {
+      "character": "thief",
+      "marker": "8.1",
+      "comment": "",
+      "text": "Another disgraced solider."
+    }
+  ]
+}

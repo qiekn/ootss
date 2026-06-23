@@ -1,0 +1,23 @@
+{
+  "name": "heroes_three_for_the_first_time_mandatory",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "Tif ... why did the Magistrate lock us up?"
+    },
+    {
+      "character": "thief",
+      "marker": "3.05",
+      "comment": "",
+      "text": "Sometimes things just follow me home.\nWithout me doing anything.\nYou know how it is."
+    },
+    {
+      "character": "wizard",
+      "marker": "8.3",
+      "comment": "",
+      "text": "You stole from him?"
+    }
+  ]
+}

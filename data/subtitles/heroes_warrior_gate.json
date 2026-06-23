@@ -1,0 +1,11 @@
+{
+  "name": "heroes_warrior_gate",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "Oh, one of these.\nStay out of my way, you stupid ... energy."
+    }
+  ]
+}

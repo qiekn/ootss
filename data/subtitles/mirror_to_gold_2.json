@@ -1,0 +1,23 @@
+{
+  "name": "mirror_to_gold_2",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "",
+      "text": "Will I see them again?"
+    },
+    {
+      "character": "anima",
+      "marker": "1.7",
+      "comment": "",
+      "text": "If you want."
+    },
+    {
+      "character": "anima",
+      "marker": "3.4",
+      "comment": "",
+      "text": "And if you want,\nIf you see them again,\nyou'll be a better man.\nFor them, and for you."
+    }
+  ]
+}

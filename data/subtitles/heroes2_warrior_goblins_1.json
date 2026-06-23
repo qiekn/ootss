@@ -1,0 +1,17 @@
+{
+  "name": "heroes2_warrior_goblins_1",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "Sore back,\ncrick in my neck,\ntwo days without sleep,"
+    },
+    {
+      "character": "warrior",
+      "marker": "3.78",
+      "comment": "",
+      "text": "and now...\ngoblins."
+    }
+  ]
+}

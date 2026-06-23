@@ -1,0 +1,17 @@
+{
+  "name": "heroes1_thief_three_crystals_end",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "Whoever you are,\nhold tight."
+    },
+    {
+      "character": "thief",
+      "marker": "1.84",
+      "comment": "",
+      "text": "We'll pull you out of this."
+    }
+  ]
+}

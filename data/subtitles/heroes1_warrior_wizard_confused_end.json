@@ -1,0 +1,17 @@
+{
+  "name": "heroes1_warrior_wizard_confused_end",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "Who ever heard of\na castle full of man-sized crystals,\nanyway?"
+    },
+    {
+      "character": "warrior",
+      "marker": "4.1",
+      "comment": "",
+      "text": "Isn't this whole thing\nextremely weird?"
+    }
+  ]
+}

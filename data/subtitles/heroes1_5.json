@@ -1,0 +1,23 @@
+{
+  "name": "heroes1_5",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "Sometimes I feel like I'm being watched.\nIt's creepy,"
+    },
+    {
+      "character": "thief",
+      "marker": "3.5",
+      "comment": "",
+      "text": "but maybe a little nice?\nSomeone cares about me!"
+    },
+    {
+      "character": "thief",
+      "marker": "7.3",
+      "comment": "",
+      "text": "Someone creepy cares about me..."
+    }
+  ]
+}

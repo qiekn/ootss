@@ -1,0 +1,23 @@
+{
+  "name": "audiolog_g_possession",
+  "items": [
+    {
+      "character": "sokoban",
+      "marker": "0",
+      "comment": "He is referring to the way in which you take control of other characters, in other worlds, to solve puzzles.",
+      "text": "It's starting to become commonplace,\nbut I still don't understand."
+    },
+    {
+      "character": "sokoban",
+      "marker": "4.92",
+      "comment": "",
+      "text": "I feel like I'm making the decisions ...\nbut I'm sure they feel they\nare making the decisions."
+    },
+    {
+      "character": "sokoban",
+      "marker": "10.8",
+      "comment": "",
+      "text": "We can't both be right."
+    }
+  ]
+}

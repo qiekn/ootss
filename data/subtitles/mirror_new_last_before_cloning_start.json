@@ -1,0 +1,41 @@
+{
+  "name": "mirror_new_last_before_cloning_start",
+  "items": [
+    {
+      "character": "anima",
+      "marker": "0",
+      "comment": "",
+      "text": "This is the place.\nWhere you turned and fled."
+    },
+    {
+      "character": "anima",
+      "marker": "5.375",
+      "comment": "Todo: Why, child,",
+      "text": "Why, little boy, did you run?"
+    },
+    {
+      "character": "trader",
+      "marker": "8.875",
+      "comment": "",
+      "text": "I'd a cold foreboding."
+    },
+    {
+      "character": "trader",
+      "marker": "11.25",
+      "comment": "",
+      "text": "That I would be marked deeply,\nno turning back\nif I went a single island further."
+    },
+    {
+      "character": "trader",
+      "marker": "18",
+      "comment": "",
+      "text": "I got away, my self intact."
+    },
+    {
+      "character": "anima",
+      "marker": "21.9",
+      "comment": "",
+      "text": "So it was.\nSo it is."
+    }
+  ]
+}

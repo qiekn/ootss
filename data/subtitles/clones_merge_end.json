@@ -1,0 +1,17 @@
+{
+  "name": "clones_merge_end",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "",
+      "text": "She made us do this."
+    },
+    {
+      "character": "trader_clone_1",
+      "marker": "1.4",
+      "comment": "",
+      "text": "Shut your mouth."
+    }
+  ]
+}

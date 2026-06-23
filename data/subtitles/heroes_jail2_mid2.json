@@ -1,0 +1,47 @@
+{
+  "name": "heroes_jail2_mid2",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "If the King knew\nhis head Magistrate's exceeding his charge,"
+    },
+    {
+      "character": "wizard",
+      "marker": "3.7",
+      "comment": "",
+      "text": "crystalizing lesser nobles\nwithout rhyme nor reason..."
+    },
+    {
+      "character": "wizard",
+      "marker": "7.8",
+      "comment": "",
+      "text": "he might consider it an emergency."
+    },
+    {
+      "character": "warrior",
+      "marker": "11.12",
+      "comment": "",
+      "text": "We can play it up a little,\ninsinuate he's looking to usurp the throne."
+    },
+    {
+      "character": "thief",
+      "marker": "15",
+      "comment": "",
+      "text": "Ooh. Which he may really be!"
+    },
+    {
+      "character": "thief",
+      "marker": "17.35",
+      "comment": "",
+      "text": "If I were the King, I'd send\nthe Caravan immediately!"
+    },
+    {
+      "character": "thief",
+      "marker": "20.6",
+      "comment": "",
+      "text": "To get him!!"
+    }
+  ]
+}

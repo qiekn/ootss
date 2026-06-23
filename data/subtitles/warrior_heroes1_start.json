@@ -1,0 +1,11 @@
+{
+  "name": "warrior_heroes1_start",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "What just happened?\nI've never seen bars just\ndissolve like that."
+    }
+  ]
+}

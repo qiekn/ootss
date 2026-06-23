@@ -1,0 +1,17 @@
+{
+  "name": "hw_two_thieves",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "This is fairly funny."
+    },
+    {
+      "character": "thief_alt",
+      "marker": "1.75",
+      "comment": "",
+      "text": "Don't tell anyone I did this, okay?"
+    }
+  ]
+}

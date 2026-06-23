@@ -1,0 +1,17 @@
+{
+  "name": "heroes_warrior_where_is_tif",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "Tif should see this hall,\nit's so bright and shiny."
+    },
+    {
+      "character": "warrior",
+      "marker": "3.9",
+      "comment": "",
+      "text": "I hope that girl's okay."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "heroes2_postmeetup_thief",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "If I'd known that starting a moving company\nwould lead to big adventures,"
+    },
+    {
+      "character": "thief",
+      "marker": "3",
+      "comment": "",
+      "text": "I'd have done it so much sooner!"
+    }
+  ]
+}

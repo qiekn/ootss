@@ -1,0 +1,65 @@
+{
+  "name": "heroes2_four",
+  "items": [
+    {
+      "character": "magistrate",
+      "marker": "0",
+      "comment": "",
+      "text": "Walls did not contain them, Ratleigh,\nso behold: we now put Dragons to this use."
+    },
+    {
+      "character": "magistrate",
+      "marker": "6.469388",
+      "comment": "",
+      "text": "Fire will hold them. I delegate this to you,\nand now I say, goodbye!"
+    },
+    {
+      "character": "warrior",
+      "marker": "11.5",
+      "comment": "",
+      "text": "So you're telling me\nhe's getting away from us again?"
+    },
+    {
+      "character": "thief",
+      "marker": "14.3",
+      "comment": "",
+      "text": "I prefer to think of it as,\nwe're closing in on him!"
+    },
+    {
+      "character": "warrior",
+      "marker": "18",
+      "comment": "",
+      "text": "Huh?"
+    },
+    {
+      "character": "thief",
+      "marker": "18.6",
+      "comment": "",
+      "text": "Across the canyon,\nhe'll be in a place\nwhere he has no friends,"
+    },
+    {
+      "character": "thief",
+      "marker": "21.7",
+      "comment": "",
+      "text": "and his rank means nothing."
+    },
+    {
+      "character": "wizard",
+      "marker": "24.05",
+      "comment": "",
+      "text": "Our status as emissaries of the King\nmight also mean nothing."
+    },
+    {
+      "character": "thief",
+      "marker": "27.8",
+      "comment": "",
+      "text": "We'll be diplomats!\nThey'll spread the carpets\nfor us!"
+    },
+    {
+      "character": "warrior",
+      "marker": "31.4",
+      "comment": "",
+      "text": "Before we begin our careers as diplomats,\nwe'll have to get out of this trap."
+    }
+  ]
+}

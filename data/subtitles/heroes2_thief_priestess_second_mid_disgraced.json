@@ -1,0 +1,17 @@
+{
+  "name": "heroes2_thief_priestess_second_mid_disgraced",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "Don't tell him I said \"disgraced\",\nhaha!"
+    },
+    {
+      "character": "thief",
+      "marker": "2.1",
+      "comment": "",
+      "text": "They have some official term for it.\nA neutral term."
+    }
+  ]
+}

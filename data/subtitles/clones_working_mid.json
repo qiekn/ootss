@@ -1,0 +1,17 @@
+{
+  "name": "clones_working_mid",
+  "items": [
+    {
+      "character": "trader_clone_1",
+      "marker": "0",
+      "comment": "Dismissively.",
+      "text": "I can see fine.\nNo idea what your issue could be."
+    },
+    {
+      "character": "trader",
+      "marker": "3.4",
+      "comment": "Said judgementally, a bit exhausted.",
+      "text": "So sure of yourself."
+    }
+  ]
+}

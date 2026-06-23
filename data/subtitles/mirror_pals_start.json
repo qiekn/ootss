@@ -1,0 +1,17 @@
+{
+  "name": "mirror_pals_start",
+  "items": [
+    {
+      "character": "trader",
+      "marker": "0",
+      "comment": "",
+      "text": "So you chose to..."
+    },
+    {
+      "character": "trader_alt",
+      "marker": "1.688",
+      "comment": "",
+      "text": "I swallowed my fear,\nI pressed on through the trial,\nbecame an apprentice M'wright."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "queen_og_heroes2",
+  "items": [
+    {
+      "character": "queen",
+      "marker": "0",
+      "comment": "",
+      "text": "It looks nice here, but\nthere's an underlying miasma."
+    },
+    {
+      "character": "queen",
+      "marker": "5.734",
+      "comment": "",
+      "text": "Not unlike the other morning,\njust ere I was forced to flee."
+    }
+  ]
+}

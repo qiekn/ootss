@@ -1,0 +1,65 @@
+{
+  "name": "heroes3_druid_warrior_second",
+  "items": [
+    {
+      "character": "druid",
+      "marker": "0",
+      "comment": "",
+      "text": "I'll speak without reserve,\nif can you keep a secret?"
+    },
+    {
+      "character": "warrior",
+      "marker": "3.75",
+      "comment": "",
+      "text": "Better than my friends can..."
+    },
+    {
+      "character": "druid",
+      "marker": "5.625",
+      "comment": "",
+      "text": "The lore among our people\nis that transmutation"
+    },
+    {
+      "character": "druid",
+      "marker": "8.875",
+      "comment": "",
+      "text": "is an inborn endowment\nheld by only a lucky few,"
+    },
+    {
+      "character": "druid",
+      "marker": "12.875",
+      "comment": "",
+      "text": "and that can only be elicited\nby a decade of training."
+    },
+    {
+      "character": "warrior",
+      "marker": "16",
+      "comment": "",
+      "text": "I see."
+    },
+    {
+      "character": "druid",
+      "marker": "17.5",
+      "comment": "",
+      "text": "Thus we protect the secret.\nIf there is no trick,"
+    },
+    {
+      "character": "druid",
+      "marker": "21.375",
+      "comment": "",
+      "text": "nobody can steal the trick\nand abuse it."
+    },
+    {
+      "character": "warrior",
+      "marker": "24.125",
+      "comment": "",
+      "text": "But he did."
+    },
+    {
+      "character": "druid",
+      "marker": "25.625",
+      "comment": "",
+      "text": "He did."
+    }
+  ]
+}

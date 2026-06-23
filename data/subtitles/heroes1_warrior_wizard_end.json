@@ -1,0 +1,17 @@
+{
+  "name": "heroes1_warrior_wizard_end",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "Let's go get\nthat stupid magistrate."
+    },
+    {
+      "character": "wizard",
+      "marker": "2.5",
+      "comment": "",
+      "text": "Let's go get\nthat stupid magistrate...\nand find Tif."
+    }
+  ]
+}

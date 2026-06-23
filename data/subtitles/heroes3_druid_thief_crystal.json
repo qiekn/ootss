@@ -1,0 +1,23 @@
+{
+  "name": "heroes3_druid_thief_crystal",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "Soooo, I think I know\nwho you're looking for."
+    },
+    {
+      "character": "druid",
+      "marker": "3.125",
+      "comment": "",
+      "text": "Ah yes?"
+    },
+    {
+      "character": "thief",
+      "marker": "3.875",
+      "comment": "",
+      "text": "We're after him too."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "heroes2_thief_dragons_second",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "Hmm, a crystal.\nIt's fresh."
+    },
+    {
+      "character": "thief",
+      "marker": "3.245",
+      "comment": "",
+      "text": "The Magistrate has been here,\nand not long ago."
+    }
+  ]
+}

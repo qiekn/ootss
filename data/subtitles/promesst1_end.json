@@ -1,0 +1,23 @@
+{
+  "name": "promesst1_end",
+  "items": [
+    {
+      "character": "gemsman",
+      "marker": "0.2",
+      "comment": "",
+      "text": "+ sound video_character_surprised 1\nWhat's this?"
+    },
+    {
+      "character": "gemsman",
+      "marker": "1.421678",
+      "comment": "",
+      "text": "What the..."
+    },
+    {
+      "character": "_",
+      "marker": "2.411156",
+      "comment": "",
+      "text": "+ sound video_character_no_longer_surprised 10"
+    }
+  ]
+}

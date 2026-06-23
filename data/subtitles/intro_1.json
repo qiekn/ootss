@@ -1,0 +1,71 @@
+{
+  "name": "intro_1",
+  "items": [
+    {
+      "character": "sokoban",
+      "marker": "0",
+      "comment": "Todo: Shorten this a bit.",
+      "text": "Mister Quigley,\nThe doorstead has closed\nsooner than expected,\nso I'm on my own for the time being."
+    },
+    {
+      "character": "sokoban",
+      "marker": "7.87",
+      "comment": "",
+      "text": "I trust all is correct on your end,\nand you'll reopen when you can manage.\nMeanwhile, I'm going to look around."
+    },
+    {
+      "character": "sokoban",
+      "marker": "16.13",
+      "comment": "",
+      "text": "I'll leave a trail of beacons,\nshould you send someone after,"
+    },
+    {
+      "character": "sokoban",
+      "marker": "19.7",
+      "comment": "",
+      "text": "and do my best to leave useful information\nin case of my disappearance or expiry."
+    },
+    {
+      "character": "sokoban",
+      "marker": "26.85",
+      "comment": "",
+      "text": "I'm standing in ... an anteroom.\nThe decor is very strange. The stylings\ndon't look like any culture I know."
+    },
+    {
+      "character": "sokoban",
+      "marker": "36.44",
+      "comment": "",
+      "text": "So this may indeed be\na completely other world."
+    },
+    {
+      "character": "sokoban",
+      "marker": "41.78",
+      "comment": "",
+      "text": "Even if I'm wrong, we've certainly managed\nto fling me much further than is possible"
+    },
+    {
+      "character": "sokoban",
+      "marker": "46.28",
+      "comment": "",
+      "text": "with a mundane doorstead. So --\nrest assured that I consider my life's work a success,\nregardless of what happens to me going forward."
+    },
+    {
+      "character": "sokoban",
+      "marker": "56.9",
+      "comment": "(Becoming more outward-focused again with his attention, switching gears).",
+      "text": "These chambers were made for a large gathering,\nbut they're empty.\nStill, I feel as though I'm being watched."
+    },
+    {
+      "character": "sokoban",
+      "marker": "66.5",
+      "comment": "",
+      "text": "The surfaces are spotless, no dust.\nIs it actively being cleaned?"
+    },
+    {
+      "character": "sokoban",
+      "marker": "74.3",
+      "comment": "",
+      "text": "I'll press forward.\nYou'll hear from me again,\nGod willing."
+    }
+  ]
+}

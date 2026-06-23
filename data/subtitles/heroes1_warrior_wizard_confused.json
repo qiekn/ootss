@@ -1,0 +1,35 @@
+{
+  "name": "heroes1_warrior_wizard_confused",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "We were just giving him the tally\nfor the move -- as we'd agreed --"
+    },
+    {
+      "character": "wizard",
+      "marker": "3.6",
+      "comment": "",
+      "text": "and slammo, he jails us.\nI still don't understand."
+    },
+    {
+      "character": "warrior",
+      "marker": "8.125",
+      "comment": "",
+      "text": "It would've been a far bigger move than\nhe'd told me at the banquet."
+    },
+    {
+      "character": "warrior",
+      "marker": "11.75",
+      "comment": "",
+      "text": "Did he think we were exaggerating,\ntrying to overbill?"
+    },
+    {
+      "character": "wizard",
+      "marker": "15",
+      "comment": "",
+      "text": "Bit of an overreaction..."
+    }
+  ]
+}

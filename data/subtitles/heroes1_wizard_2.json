@@ -1,0 +1,17 @@
+{
+  "name": "heroes1_wizard_2",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "(to himself)",
+      "text": "At least the Magistrate\nwent crazy before the job --"
+    },
+    {
+      "character": "wizard",
+      "marker": "2.8",
+      "comment": "",
+      "text": "If we'd moved\nall these crystals out,\nI'd have naught to work with now."
+    }
+  ]
+}

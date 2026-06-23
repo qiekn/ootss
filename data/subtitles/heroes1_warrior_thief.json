@@ -1,0 +1,35 @@
+{
+  "name": "heroes1_warrior_thief",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "Tif! Are you all right?"
+    },
+    {
+      "character": "thief",
+      "marker": "2.22",
+      "comment": "",
+      "text": "Of course, of course, shush,\nwe've got to catch the Magistrate!\nWhere's Izzy?"
+    },
+    {
+      "character": "warrior",
+      "marker": "6.56",
+      "comment": "",
+      "text": "He went the other way\nlooking for you."
+    },
+    {
+      "character": "thief",
+      "marker": "8.9",
+      "comment": "",
+      "text": "Well, let's find him.\nWhich other way?"
+    },
+    {
+      "character": "warrior",
+      "marker": "11.9",
+      "comment": "(Realizes he doesn't know)",
+      "text": "Yeah... there are a lot\nof Other Ways in here."
+    }
+  ]
+}

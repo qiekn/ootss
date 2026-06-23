@@ -1,0 +1,23 @@
+{
+  "name": "heroes_three_for_the_first_time_mandatory_end",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "What followed you home, in this case, was...?"
+    },
+    {
+      "character": "thief",
+      "marker": "2.55",
+      "comment": "",
+      "text": "Yeah, a case! How did you ...\nA little cask with nice handles for grabbing.\nI'd thought it might be full of shiny things,"
+    },
+    {
+      "character": "thief",
+      "marker": "10.2",
+      "comment": "(a little disappointed that they are just papers)",
+      "text": "but it only held papers and notes."
+    }
+  ]
+}

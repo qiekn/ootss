@@ -1,0 +1,53 @@
+{
+  "name": "mirror_4_start",
+  "items": [
+    {
+      "character": "anima",
+      "marker": "0",
+      "comment": "",
+      "text": "So, you're here to find a specific mirror?"
+    },
+    {
+      "character": "trader",
+      "marker": "3.125",
+      "comment": "",
+      "text": "I'm merely looking for a good one,\nin pristine condition."
+    },
+    {
+      "character": "trader",
+      "marker": "6.5",
+      "comment": "",
+      "text": "These early mirrors are scathed, so I'll\ndo a few more rounds of the trial,"
+    },
+    {
+      "character": "trader",
+      "marker": "12.35",
+      "comment": "",
+      "text": "get further in,\nwhere doubtless they are fresher."
+    },
+    {
+      "character": "anima",
+      "marker": "13.87",
+      "comment": "",
+      "text": "And then you'll take that mirror?"
+    },
+    {
+      "character": "trader",
+      "marker": "16.67",
+      "comment": "",
+      "text": "Take? I'll leave payment in silver\nthat is more than fair."
+    },
+    {
+      "character": "anima",
+      "marker": "21.063",
+      "comment": "",
+      "text": "Display it in your flagship emporium?"
+    },
+    {
+      "character": "trader",
+      "marker": "24.125",
+      "comment": "",
+      "text": "'Display' sounds so passive.\nI'll be frequently on hand\nto demonstrate, proudly."
+    }
+  ]
+}

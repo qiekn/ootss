@@ -1,0 +1,41 @@
+{
+  "name": "heroes_three_for_the_first_time_optional",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "\"Open the bag\" is a colloqualism, like \"spill the beans\".",
+      "text": "Tif. Open the bag. What did you do?"
+    },
+    {
+      "character": "thief",
+      "marker": "3.03",
+      "comment": "",
+      "text": "Well, you see,\nthe Magistrate has been up to something."
+    },
+    {
+      "character": "warrior",
+      "marker": "7.6",
+      "comment": "",
+      "text": "Yeah, locking us up in jail!"
+    },
+    {
+      "character": "wizard",
+      "marker": "10.5",
+      "comment": "",
+      "text": "I've been ... thinking ...\nThat could have been an honest misunderstanding."
+    },
+    {
+      "character": "warrior",
+      "marker": "15.36",
+      "comment": "",
+      "text": "Hardly!"
+    },
+    {
+      "character": "thief",
+      "marker": "16",
+      "comment": "",
+      "text": "He's been up to something\nreally bad!"
+    }
+  ]
+}

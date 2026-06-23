@@ -1,0 +1,29 @@
+{
+  "name": "heroes2_wizard_priestess_first",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "Why hello there! We seem to be\nin a spot of trouble."
+    },
+    {
+      "character": "priestess",
+      "marker": "4.7",
+      "comment": "",
+      "text": "..."
+    },
+    {
+      "character": "wizard",
+      "marker": "8.063",
+      "comment": "",
+      "text": "Normally, goblins are no problem for me,\nno problem at all,\nbut, this passageway is so narrow..."
+    },
+    {
+      "character": "priestess",
+      "marker": "18",
+      "comment": "",
+      "text": "..."
+    }
+  ]
+}

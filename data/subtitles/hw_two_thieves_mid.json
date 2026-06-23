@@ -1,0 +1,17 @@
+{
+  "name": "hw_two_thieves_mid",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "They wouldn't believe me if I told."
+    },
+    {
+      "character": "thief_alt",
+      "marker": "2.5",
+      "comment": "Todo: wildness, not craziness?",
+      "text": "Sure they would,\ngiven all the other craziness."
+    }
+  ]
+}

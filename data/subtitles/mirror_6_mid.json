@@ -1,0 +1,35 @@
+{
+  "name": "mirror_6_mid",
+  "items": [
+    {
+      "character": "anima",
+      "marker": "0",
+      "comment": "",
+      "text": "Old You would have just\ntaken the first mirror\nand sailed off."
+    },
+    {
+      "character": "trader",
+      "marker": "4.5",
+      "comment": "",
+      "text": "Efficient."
+    },
+    {
+      "character": "anima",
+      "marker": "5.89",
+      "comment": "",
+      "text": "Yes, you were.\nMinimize risk of time,\nand so forth."
+    },
+    {
+      "character": "trader",
+      "marker": "12.7",
+      "comment": "",
+      "text": "Today my standards are higher."
+    },
+    {
+      "character": "anima",
+      "marker": "15.43",
+      "comment": "(she is humoring him)",
+      "text": "As you say."
+    }
+  ]
+}

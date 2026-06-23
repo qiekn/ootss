@@ -1,0 +1,17 @@
+{
+  "name": "mirror_after_clones_first",
+  "items": [
+    {
+      "character": "anima",
+      "marker": "0",
+      "comment": "",
+      "text": "Stand whole."
+    },
+    {
+      "character": "anima",
+      "marker": "2.349",
+      "comment": "",
+      "text": "Straight like a mirror's beam,\nbright like the spear of the sun."
+    }
+  ]
+}

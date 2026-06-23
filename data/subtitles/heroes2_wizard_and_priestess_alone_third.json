@@ -1,0 +1,47 @@
+{
+  "name": "heroes2_wizard_and_priestess_alone_third",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "",
+      "text": "I was so careful, for so long.\nI was careful, I was careful,\nI was careful, I was careful, then ..."
+    },
+    {
+      "character": "wizard",
+      "marker": "14.75",
+      "comment": "",
+      "text": "One day I woke up at 3 in the morning,\nfull of energy, yearning to just do it all."
+    },
+    {
+      "character": "wizard",
+      "marker": "18.8",
+      "comment": "Todo: \"this has been enough careful\" can be replaced by the \"making me old\" line, for brevity?",
+      "text": "Thinking, this has been enough careful and\nit's time to just leap ahead.\nAll this time being careful is making me old!"
+    },
+    {
+      "character": "wizard",
+      "marker": "26.378",
+      "comment": "",
+      "text": "I was working feverishly,\nhalf-asleep, blearily..."
+    },
+    {
+      "character": "wizard",
+      "marker": "30",
+      "comment": "",
+      "text": "No surprise, -- a mistake.\nThe stone was vibrating with power,\nand, I dropped it --"
+    },
+    {
+      "character": "wizard",
+      "marker": "38.7",
+      "comment": "Todo: Maybe just \"piercing me\" and something to add a little at the end.",
+      "text": "exploding,\ntiny fragments of darklith flying,\npiercing my body --"
+    },
+    {
+      "character": "wizard",
+      "marker": "45.7",
+      "comment": "",
+      "text": "and thus, I am as I am today."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "mirror_to_gold_4",
+  "items": [
+    {
+      "character": "anima",
+      "marker": "0",
+      "comment": "",
+      "text": "It is I who set the M'wrights on their path,\nand I who now send you,"
+    },
+    {
+      "character": "anima",
+      "marker": "7.6",
+      "comment": "",
+      "text": "not to them,\nbut past them,\nalong a path your own."
+    }
+  ]
+}

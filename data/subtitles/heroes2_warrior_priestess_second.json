@@ -1,0 +1,23 @@
+{
+  "name": "heroes2_warrior_priestess_second",
+  "items": [
+    {
+      "character": "warrior",
+      "marker": "0",
+      "comment": "",
+      "text": "If we catch the Magistrate,\nthe King will release me."
+    },
+    {
+      "character": "warrior",
+      "marker": "2.9",
+      "comment": "",
+      "text": "And that will change my life.\nAgain."
+    },
+    {
+      "character": "warrior",
+      "marker": "6.9",
+      "comment": "",
+      "text": "But ignoring that,\nI'd capture this snakeweasel just on principle.\nHis trail of destruction is\npretty long at this point."
+    }
+  ]
+}

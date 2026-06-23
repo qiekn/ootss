@@ -1,0 +1,47 @@
+{
+  "name": "mirror_factory",
+  "items": [
+    {
+      "character": "anima",
+      "marker": "0",
+      "comment": "",
+      "text": "Do you feel anxious\nabout this one?"
+    },
+    {
+      "character": "trader",
+      "marker": "3.6",
+      "comment": "",
+      "text": "I'm not so sure.\nAt what should I be looking?"
+    },
+    {
+      "character": "anima",
+      "marker": "7.125",
+      "comment": "",
+      "text": "Two mirrors. As you know,\nthat's often a threat --"
+    },
+    {
+      "character": "trader",
+      "marker": "12.125",
+      "comment": "Interrupting/finishing her sentence.",
+      "text": "A threat to split me. Yes."
+    },
+    {
+      "character": "trader",
+      "marker": "14.8",
+      "comment": "",
+      "text": "I don't mind it, not so much,\nnot any more."
+    },
+    {
+      "character": "trader",
+      "marker": "18.78",
+      "comment": "Todo: I like that we are talking about things that are relevant, but don't really like that we are talking about how to do the puzzle. We should enforce purity about this.",
+      "text": "But I also feel\nit's not quite right today."
+    },
+    {
+      "character": "anima",
+      "marker": "21.625",
+      "comment": "",
+      "text": "Perceptive."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "heroes_tif_return",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "We'll be back for you.\nDon't worry."
+    }
+  ]
+}

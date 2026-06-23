@@ -1,0 +1,17 @@
+{
+  "name": "heroes1_wizard_three_crystals",
+  "items": [
+    {
+      "character": "wizard",
+      "marker": "0",
+      "comment": "(to himself)",
+      "text": "Tif and Valens can't be far.\nI was imprisoned but a few hours --"
+    },
+    {
+      "character": "wizard",
+      "marker": "3.73",
+      "comment": "",
+      "text": "I'll find the Magistrate --\nhe'll explain himself."
+    }
+  ]
+}

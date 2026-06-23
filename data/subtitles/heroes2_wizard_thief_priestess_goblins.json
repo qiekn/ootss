@@ -1,0 +1,29 @@
+{
+  "name": "heroes2_wizard_thief_priestess_goblins",
+  "items": [
+    {
+      "character": "thief",
+      "marker": "0",
+      "comment": "",
+      "text": "A Guardsman told me\nthey all saw incredible smoke\ncoming from the mountains, last week."
+    },
+    {
+      "character": "wizard",
+      "marker": "4.55",
+      "comment": "",
+      "text": "There was a fire in the goblin caves?\nA huge accident?\nOr, -- maybe someone smoked them out intentionally..."
+    },
+    {
+      "character": "thief",
+      "marker": "12.62",
+      "comment": "",
+      "text": "Then how'd the dragons get here?\nThey don't mind smoke."
+    },
+    {
+      "character": "wizard",
+      "marker": "15.75",
+      "comment": "",
+      "text": "Maybe the dragons made the smoke..."
+    }
+  ]
+}

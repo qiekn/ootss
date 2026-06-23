@@ -1,0 +1,11 @@
+{
+  "name": "heroes3_bard_two_goblins",
+  "items": [
+    {
+      "character": "bard",
+      "marker": "0",
+      "comment": "",
+      "text": "Well, boys.\nWhat can we do with you."
+    }
+  ]
+}

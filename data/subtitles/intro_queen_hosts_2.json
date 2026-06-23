@@ -1,0 +1,17 @@
+{
+  "name": "intro_queen_hosts_2",
+  "items": [
+    {
+      "character": "queen",
+      "marker": "0",
+      "comment": "",
+      "text": "You who call yourselves\nSinking Star!"
+    },
+    {
+      "character": "queen",
+      "marker": "2.87",
+      "comment": "",
+      "text": "If you want to help me,\nsend me back to my men."
+    }
+  ]
+}
