@@ -26,3 +26,21 @@ pnpm add -D tsx
 # run this at project root
 pnpm parse-sbutitles
 ```
+
+
+# Match subtitles
+
+Matching subtitles to each level.
+
+For example: [data/level/heroes1_1/index.mdx](https://github.com/qiekn/ootss/blob/main/data/levels/heroes1_1/index.mdx)
+
+```mdx
+---
+title: "Warrior Heroes 1"
+subtitles:
+    - warrior_heroes1_start
+    - warrior_heroes1_start_end
+---
+```
+
+Manually match the subtitle IDs (`warrior_heroes1_start`, `warrior_heroes1_start_end`).
